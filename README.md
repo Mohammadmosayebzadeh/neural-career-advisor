@@ -32,7 +32,7 @@ neural-career-advisor/
 
 ## Getting the data
 
-This project uses the Stack Overflow Developer Survey 2025 — `survey_results_public.csv` and `survey_results_schema.csv` — licensed under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/). Download it from the [official survey site](https://survey.stackoverflow.co/2025), the [official GitHub archive](https://github.com/StackExchange/Survey), or a Kaggle mirror, and place both CSVs in `data/`. The raw data isn't committed to this repo (file size + license terms).
+This project uses the Stack Overflow Developer Survey 2025 — `results.txt` (response data) and `schema.txt` (question reference) — licensed under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/). Both are plain CSVs despite the `.txt` extension (that's how they come from the GitHub archive). Download from the [official survey site](https://survey.stackoverflow.co/2025), the [official GitHub archive](https://github.com/StackExchange/Survey), or a Kaggle mirror, and place both files in `data/`. The raw data isn't committed to this repo (file size + license terms).
 
 ## Setup
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 - [x] Step 0 — Project setup & GitHub
 - [x] Step 1 — Data understanding
-- [ ] Step 2 — Cleaning & EDA
+- [x] Step 2 — Cleaning & EDA
 - [ ] Step 3 — Fact generation
 - [ ] Step 4 — Build FAISS index
 - [ ] Step 5 — RAG chat logic
@@ -59,4 +59,4 @@ pip install -r requirements.txt
 | Vectorization & FAISS Implementation | Iliya Barary |
 | LLM Integration & Interface Design | Mani Gholampour |
 
-EE-404 Advanced Data Science — Dr.Amirhosain Salavati
+EE-404 Advanced Data Science — Dr. Amirhosain Salavati
