@@ -1,0 +1,18 @@
+# Phase 1-2: data handling
+pandas
+numpy
+matplotlib
+
+# Phase 3-4: embeddings + vector search
+sentence-transformers
+faiss-cpu
+
+# Phase 5: LLM client — add once we pick Ollama vs. a hosted API
+# ollama
+# anthropic
+
+# Phase 6: interface
+streamlit
+
+# utility
+python-dotenv
