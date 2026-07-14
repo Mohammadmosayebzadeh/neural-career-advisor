@@ -1,0 +1,173 @@
+column,dtype,missing_pct,n_unique,multi_select
+ResponseId,int64,0.0,49191,False
+MainBranch,object,0.0,6,False
+Age,object,0.0,7,False
+EdLevel,object,2.1,8,False
+Employment,object,1.7,6,False
+EmploymentAddl,object,8.8,171,True
+WorkExp,float64,12.8,72,False
+LearnCodeChoose,object,4.7,3,False
+LearnCode,object,31.8,2767,True
+LearnCodeAI,object,8.1,5,False
+AILearnHow,object,42.6,1677,True
+YearsCode,float64,12.5,78,False
+DevType,object,11.2,32,False
+OrgSize,object,30.5,9,False
+ICorPM,object,32.4,2,False
+RemoteWork,object,31.3,5,False
+PurchaseInfluence,object,23.9,5,False
+TechEndorseIntro,object,23.7,3,False
+TechEndorse_1,float64,26.9,14,False
+TechEndorse_2,float64,26.9,14,False
+TechEndorse_3,float64,26.9,14,False
+TechEndorse_4,float64,26.9,14,False
+TechEndorse_5,float64,26.9,14,False
+TechEndorse_6,float64,26.9,14,False
+TechEndorse_7,float64,26.9,14,False
+TechEndorse_8,float64,26.9,14,False
+TechEndorse_9,float64,26.9,14,False
+TechEndorse_13,float64,26.9,14,False
+TechEndorse_13_TEXT,object,95.9,1575,True
+TechOppose_1,float64,30.4,15,False
+TechOppose_2,float64,30.4,15,False
+TechOppose_3,float64,30.4,15,False
+TechOppose_5,float64,30.4,15,False
+TechOppose_7,float64,30.4,15,False
+TechOppose_9,float64,30.4,15,False
+TechOppose_11,float64,30.4,14,False
+TechOppose_13,float64,30.4,15,False
+TechOppose_16,float64,30.4,15,False
+TechOppose_15,float64,30.4,16,False
+TechOppose_15_TEXT,object,96.7,1212,True
+Industry,object,31.6,15,False
+JobSatPoints_1,float64,49.3,15,False
+JobSatPoints_2,float64,49.3,15,False
+JobSatPoints_3,float64,49.3,15,False
+JobSatPoints_4,float64,49.3,15,False
+JobSatPoints_5,float64,49.3,15,False
+JobSatPoints_6,float64,49.3,15,False
+JobSatPoints_7,float64,49.3,15,False
+JobSatPoints_8,float64,49.3,15,False
+JobSatPoints_9,float64,49.3,15,False
+JobSatPoints_10,float64,49.3,15,False
+JobSatPoints_11,float64,49.3,15,False
+JobSatPoints_13,float64,49.3,15,False
+JobSatPoints_14,float64,49.3,15,False
+JobSatPoints_15,float64,49.3,15,False
+JobSatPoints_16,float64,49.3,15,False
+JobSatPoints_15_TEXT,object,98.7,571,True
+AIThreat,object,26.7,3,False
+NewRole,object,27.8,5,False
+ToolCountWork,float64,43.9,114,False
+ToolCountPersonal,float64,48.0,87,False
+Country,object,28.0,177,False
+Currency,object,28.0,142,False
+CompTotal,float64,49.5,2678,False
+LanguageChoice,object,34.5,2,False
+LanguageHaveWorkedWith,object,35.6,15478,True
+LanguageWantToWorkWith,object,45.0,13740,True
+LanguageAdmired,object,52.3,8088,True
+LanguagesHaveEntry,object,91.9,1896,False
+LanguagesWantEntry,object,93.6,1413,True
+DatabaseChoice,object,35.6,2,False
+DatabaseHaveWorkedWith,object,48.1,6670,True
+DatabaseWantToWorkWith,object,59.9,5478,True
+DatabaseAdmired,object,64.8,2756,True
+DatabaseHaveEntry,object,95.6,1128,True
+DatabaseWantEntry,object,96.9,837,True
+PlatformChoice,object,36.4,2,False
+PlatformHaveWorkedWith,object,50.7,18802,True
+PlatformWantToWorkWith,object,60.5,13343,True
+PlatformAdmired,object,63.8,11035,True
+PlatformHaveEntry,object,92.0,1838,False
+PlatformWantEntry,object,93.7,1391,False
+WebframeChoice,object,36.6,2,False
+WebframeHaveWorkedWith,object,53.3,7418,True
+WebframeWantToWorkWith,object,64.1,5727,True
+WebframeAdmired,object,68.1,3173,True
+WebframeHaveEntry,object,93.3,1676,True
+WebframeWantEntry,object,94.7,1370,True
+DevEnvsChoice,object,36.8,2,False
+DevEnvsHaveWorkedWith,object,47.1,7765,True
+DevEnvsWantToWorkWith,object,58.1,5413,True
+DevEnvsAdmired,object,60.4,3941,True
+DevEnvHaveEntry,object,94.4,983,True
+DevEnvWantEntry,object,95.7,738,True
+SOTagsHaveWorkedWith,object,63.6,1798,True
+SOTagsWantToWorkWith,object,72.4,2159,True
+SOTagsAdmired,object,75.1,1138,True
+SOTagsHaveEntry,object,99.1,347,False
+SOTagsWant Entry,object,99.1,323,False
+OpSysPersonal use,object,36.1,1903,True
+OpSysProfessional use,object,41.3,1371,True
+OfficeStackAsyncHaveWorkedWith,object,39.3,6684,True
+OfficeStackAsyncWantToWorkWith,object,52.8,3927,True
+OfficeStackAsyncAdmired,object,54.9,2964,True
+OfficeStackHaveEntry,object,94.7,1197,False
+OfficeStackWantEntry,object,96.7,809,False
+CommPlatformHaveWorkedWith,object,38.9,6108,True
+CommPlatformWantToWorkWith,object,52.5,4781,True
+CommPlatformAdmired,object,53.5,4223,True
+CommPlatformHaveEntr,object,97.0,675,True
+CommPlatformWantEntr,object,97.6,582,True
+AIModelsChoice,object,38.5,2,False
+AIModelsHaveWorkedWith,object,66.9,2284,True
+AIModelsWantToWorkWith,object,75.9,1940,True
+AIModelsAdmired,object,77.1,1433,True
+AIModelsHaveEntry,object,98.4,459,False
+AIModelsWantEntry,object,99.0,299,False
+SOAccount,object,33.3,3,False
+SOVisitFreq,object,33.5,7,False
+SODuration,object,33.7,7,False
+SOPartFreq,object,34.5,8,False
+SO_Dev_Content,object,53.6,1756,True
+SO_Actions_1,float64,46.6,15,False
+SO_Actions_16,float64,50.5,10,False
+SO_Actions_3,float64,46.6,15,False
+SO_Actions_4,float64,46.6,15,False
+SO_Actions_5,float64,46.6,15,False
+SO_Actions_6,float64,46.6,15,False
+SO_Actions_9,float64,46.6,15,False
+SO_Actions_7,float64,46.6,15,False
+SO_Actions_10,float64,46.6,15,False
+SO_Actions_15,float64,46.6,15,False
+SO_Actions_15_TEXT,object,98.3,764,True
+SOComm,object,35.5,6,False
+SOFriction,object,37.4,5,False
+AISelect,object,31.5,5,False
+AISent,object,32.0,6,False
+AIAcc,object,32.3,5,False
+AIComplex,object,32.3,6,False
+AIToolCurrently partially AI,object,57.3,3746,True
+AIToolDon't plan to use AI for this task,object,48.4,3558,True
+AIToolPlan to partially use AI,object,54.1,4460,True
+AIToolPlan to mostly use AI,object,73.9,2214,True
+AIToolCurrently mostly AI,object,77.2,1747,True
+AIFrustration,object,35.9,100,True
+AIExplain,object,46.0,11231,True
+AIAgents,object,35.1,6,False
+AIAgentChange,object,35.6,5,False
+AIAgent_Uses,object,75.0,397,True
+AgentUsesGeneral,object,88.2,152,True
+AIAgentImpactSomewhat agree,object,79.4,222,True
+AIAgentImpactNeutral,object,80.3,232,True
+AIAgentImpactSomewhat disagree,object,88.2,161,True
+AIAgentImpactStrongly agree,object,86.4,200,True
+AIAgentImpactStrongly disagree,object,92.3,159,True
+AIAgentChallengesNeutral,object,56.7,126,True
+AIAgentChallengesSomewhat disagree,object,75.4,89,True
+AIAgentChallengesStrongly agree,object,53.0,123,True
+AIAgentChallengesSomewhat agree,object,55.4,124,True
+AIAgentChallengesStrongly disagree,object,81.1,83,True
+AIAgentKnowledge,object,93.1,528,True
+AIAgentKnowWrite,object,98.4,561,True
+AIAgentOrchestration,object,92.4,620,True
+AIAgentOrchWrite,object,99.0,332,True
+AIAgentObserveSecure,object,94.5,314,True
+AIAgentObsWrite,object,99.5,195,True
+AIAgentExternal,object,83.1,1311,True
+AIAgentExtWrite,object,98.3,421,True
+AIHuman,object,40.7,574,True
+AIOpen,object,54.2,20138,True
+ConvertedCompYearly,float64,51.3,6237,False
+JobSat,float64,45.8,11,False
