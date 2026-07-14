@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ## Roadmap
 
 - [x] Step 0 — Project setup & GitHub
-- [ ] Step 1 — Data understanding
+- [x] Step 1 — Data understanding
 - [ ] Step 2 — Cleaning & EDA
 - [ ] Step 3 — Fact generation
 - [ ] Step 4 — Build FAISS index
@@ -55,8 +55,8 @@ pip install -r requirements.txt
 
 | Role | Name |
 |---|---|
-| Data Engineering & RAG Architecture | Arash Vahidi |
-| Vectorization & FAISS Implementation | Sara Khorasani |
-| LLM Integration & Interface Design | Nima Rezaei |
+| Data Engineering & RAG Architecture | Mohammad Mosayeb zadeh |
+| Vectorization & FAISS Implementation | Iliya Barary |
+| LLM Integration & Interface Design | Mani Gholampour |
 
-CS-404 Advanced Data Science — Dr. Shirin Karimi
+EE-404 Advanced Data Science — Dr.Amirhosain Salavati
