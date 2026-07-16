@@ -9,8 +9,9 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data — large + ODbL licensed, see data/ note in README
-data/*.csv
+# Raw data — large + ODbL licensed, see data/ note in README (derived files like facts.csv ARE committed)
+data/results.txt
+data/schema.txt
 data/*.zip
 *.faiss
 *.index
