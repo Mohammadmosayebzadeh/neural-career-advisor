@@ -1,135 +1,135 @@
 text,category,n
-"The median annual salary for a Developer, full-stack is \$72,958, based on 7247 respondents.",salary_by_role,7247
-"The median annual salary for a Developer, back-end is \$80,871, based on 3852 respondents.",salary_by_role,3852
-"The median annual salary for a Student is \$13,278, based on 331 respondents.",salary_by_role,331
-"The median annual salary for a Architect, software or solutions is \$102,142, based on 1602 respondents.",salary_by_role,1602
-"The median annual salary for a Developer, front-end is \$63,808, based on 1085 respondents.",salary_by_role,1085
-"The median annual salary for a Developer, desktop or enterprise applications is \$74,423, based on 1103 respondents.",salary_by_role,1103
-"The median annual salary for a Developer, mobile is \$71,899, based on 739 respondents.",salary_by_role,739
-"The median annual salary for a Developer, embedded applications or devices is \$81,210, based on 754 respondents.",salary_by_role,754
-"The median annual salary for a Academic researcher is \$46,806, based on 553 respondents.",salary_by_role,553
-"The median annual salary for a Engineering manager is \$131,158, based on 708 respondents.",salary_by_role,708
-"The median annual salary for a DevOps engineer or professional is \$87,328, based on 683 respondents.",salary_by_role,683
-"The median annual salary for a Data engineer is \$81,210, based on 477 respondents.",salary_by_role,477
-"The median annual salary for a AI/ML engineer is \$92,812, based on 336 respondents.",salary_by_role,336
-"The median annual salary for a Data scientist is \$81,531, based on 336 respondents.",salary_by_role,336
-"The median annual salary for a Senior executive (C-suite, VP, etc.) is \$139,218, based on 306 respondents.",salary_by_role,306
-"The median annual salary for a System administrator is \$52,604, based on 232 respondents.",salary_by_role,232
-"The median annual salary for a Developer, game or graphics is \$72,606, based on 194 respondents.",salary_by_role,194
-"The median annual salary for a Cloud infrastructure engineer is \$107,894, based on 255 respondents.",salary_by_role,255
-"The median annual salary for a Founder, technology or otherwise is \$96,000, based on 187 respondents.",salary_by_role,187
-"The median annual salary for a Cybersecurity or InfoSec professional is \$104,214, based on 182 respondents.",salary_by_role,182
-"The median annual salary for a Data or business analyst is \$58,433, based on 178 respondents.",salary_by_role,178
-"The median annual salary for a Developer, QA or test is \$58,946, based on 187 respondents.",salary_by_role,187
-"The median annual salary for a Project manager is \$69,609, based on 153 respondents.",salary_by_role,153
-"The median annual salary for a Applied scientist is \$100,552, based on 158 respondents.",salary_by_role,158
-"The median annual salary for a Support engineer or analyst is \$61,264, based on 123 respondents.",salary_by_role,123
-"The median annual salary for a Developer, AI apps or physical AI is \$69,609, based on 101 respondents.",salary_by_role,101
-"The median annual salary for a Product manager is \$106,752, based on 109 respondents.",salary_by_role,109
-"The median annual salary for a Database administrator or engineer is \$85,884, based on 98 respondents.",salary_by_role,98
-"The median annual salary for a UX, Research Ops or UI design professional is \$74,878, based on 41 respondents.",salary_by_role,41
-"In United States of America, the median annual salary for a Developer, full-stack is \$138,000, based on 1654 respondents.",salary_by_role_country,1654
-"In Germany, the median annual salary for a Developer, full-stack is \$75,410, based on 651 respondents.",salary_by_role_country,651
-"In India, the median annual salary for a Developer, full-stack is \$13,949, based on 340 respondents.",salary_by_role_country,340
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Developer, full-stack is \$85,769, based on 475 respondents.",salary_by_role_country,475
-"In France, the median annual salary for a Developer, full-stack is \$58,007, based on 293 respondents.",salary_by_role_country,293
-"In Canada, the median annual salary for a Developer, full-stack is \$80,254, based on 310 respondents.",salary_by_role_country,310
-"In Ukraine, the median annual salary for a Developer, full-stack is \$28,759, based on 134 respondents.",salary_by_role_country,134
-"In Poland, the median annual salary for a Developer, full-stack is \$60,518, based on 123 respondents.",salary_by_role_country,123
-"In Netherlands, the median annual salary for a Developer, full-stack is \$75,410, based on 190 respondents.",salary_by_role_country,190
-"In Italy, the median annual salary for a Developer, full-stack is \$42,925, based on 168 respondents.",salary_by_role_country,168
-"In Brazil, the median annual salary for a Developer, full-stack is \$25,485, based on 202 respondents.",salary_by_role_country,202
-"In Australia, the median annual salary for a Developer, full-stack is \$87,763, based on 181 respondents.",salary_by_role_country,181
-"In Spain, the median annual salary for a Developer, full-stack is \$58,007, based on 147 respondents.",salary_by_role_country,147
-"In Sweden, the median annual salary for a Developer, full-stack is \$66,038, based on 150 respondents.",salary_by_role_country,150
-"In Switzerland, the median annual salary for a Developer, full-stack is \$136,392, based on 133 respondents.",salary_by_role_country,133
-"In United States of America, the median annual salary for a Developer, back-end is \$176,500, based on 684 respondents.",salary_by_role_country,684
-"In Germany, the median annual salary for a Developer, back-end is \$86,373, based on 294 respondents.",salary_by_role_country,294
-"In India, the median annual salary for a Developer, back-end is \$22,667, based on 204 respondents.",salary_by_role_country,204
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Developer, back-end is \$108,913, based on 260 respondents.",salary_by_role_country,260
-"In France, the median annual salary for a Developer, back-end is \$71,929, based on 149 respondents.",salary_by_role_country,149
-"In Canada, the median annual salary for a Developer, back-end is \$109,438, based on 121 respondents.",salary_by_role_country,121
-"In Ukraine, the median annual salary for a Developer, back-end is \$29,958, based on 203 respondents.",salary_by_role_country,203
-"In Poland, the median annual salary for a Developer, back-end is \$70,954, based on 155 respondents.",salary_by_role_country,155
-"In Netherlands, the median annual salary for a Developer, back-end is \$87,011, based on 106 respondents.",salary_by_role_country,106
-"In Italy, the median annual salary for a Developer, back-end is \$48,726, based on 91 respondents.",salary_by_role_country,91
-"In Brazil, the median annual salary for a Developer, back-end is \$33,677, based on 131 respondents.",salary_by_role_country,131
-"In Australia, the median annual salary for a Developer, back-end is \$107,265, based on 78 respondents.",salary_by_role_country,78
-"In Spain, the median annual salary for a Developer, back-end is \$70,769, based on 90 respondents.",salary_by_role_country,90
-"In Sweden, the median annual salary for a Developer, back-end is \$73,375, based on 100 respondents.",salary_by_role_country,100
-"In Switzerland, the median annual salary for a Developer, back-end is \$154,061, based on 52 respondents.",salary_by_role_country,52
-"In United States of America, the median annual salary for a Student is \$29,500, based on 68 respondents.",salary_by_role_country,68
-"In Germany, the median annual salary for a Student is \$14,502, based on 52 respondents.",salary_by_role_country,52
-"In United States of America, the median annual salary for a Architect, software or solutions is \$185,000, based on 325 respondents.",salary_by_role_country,325
-"In Germany, the median annual salary for a Architect, software or solutions is \$109,634, based on 162 respondents.",salary_by_role_country,162
-"In India, the median annual salary for a Architect, software or solutions is \$47,077, based on 72 respondents.",salary_by_role_country,72
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Architect, software or solutions is \$122,527, based on 101 respondents.",salary_by_role_country,101
-"In France, the median annual salary for a Architect, software or solutions is \$81,210, based on 72 respondents.",salary_by_role_country,72
-"In Canada, the median annual salary for a Architect, software or solutions is \$109,073, based on 46 respondents.",salary_by_role_country,46
-"In Netherlands, the median annual salary for a Architect, software or solutions is \$104,413, based on 49 respondents.",salary_by_role_country,49
-"In Italy, the median annual salary for a Architect, software or solutions is \$66,128, based on 69 respondents.",salary_by_role_country,69
-"In Brazil, the median annual salary for a Architect, software or solutions is \$43,689, based on 40 respondents.",salary_by_role_country,40
-"In Australia, the median annual salary for a Architect, software or solutions is \$130,019, based on 35 respondents.",salary_by_role_country,35
-"In Spain, the median annual salary for a Architect, software or solutions is \$69,609, based on 69 respondents.",salary_by_role_country,69
-"In Sweden, the median annual salary for a Architect, software or solutions is \$89,098, based on 36 respondents.",salary_by_role_country,36
-"In Switzerland, the median annual salary for a Architect, software or solutions is \$172,350, based on 30 respondents.",salary_by_role_country,30
-"In United States of America, the median annual salary for a Developer, front-end is \$149,500, based on 198 respondents.",salary_by_role_country,198
-"In Germany, the median annual salary for a Developer, front-end is \$79,223, based on 91 respondents.",salary_by_role_country,91
-"In India, the median annual salary for a Developer, front-end is \$11,043, based on 74 respondents.",salary_by_role_country,74
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Developer, front-end is \$87,130, based on 52 respondents.",salary_by_role_country,52
-"In France, the median annual salary for a Developer, front-end is \$61,487, based on 42 respondents.",salary_by_role_country,42
-"In Canada, the median annual salary for a Developer, front-end is \$72,958, based on 41 respondents.",salary_by_role_country,41
-"In Ukraine, the median annual salary for a Developer, front-end is \$31,765, based on 69 respondents.",salary_by_role_country,69
-"In Spain, the median annual salary for a Developer, front-end is \$58,007, based on 32 respondents.",salary_by_role_country,32
-"In United States of America, the median annual salary for a Developer, desktop or enterprise applications is \$128,000, based on 255 respondents.",salary_by_role_country,255
-"In Germany, the median annual salary for a Developer, desktop or enterprise applications is \$81,210, based on 124 respondents.",salary_by_role_country,124
-"In India, the median annual salary for a Developer, desktop or enterprise applications is \$26,444, based on 32 respondents.",salary_by_role_country,32
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Developer, desktop or enterprise applications is \$81,685, based on 67 respondents.",salary_by_role_country,67
-"In France, the median annual salary for a Developer, desktop or enterprise applications is \$54,527, based on 49 respondents.",salary_by_role_country,49
-"In Canada, the median annual salary for a Developer, desktop or enterprise applications is \$87,550, based on 58 respondents.",salary_by_role_country,58
-"In Poland, the median annual salary for a Developer, desktop or enterprise applications is \$59,492, based on 30 respondents.",salary_by_role_country,30
-"In Italy, the median annual salary for a Developer, desktop or enterprise applications is \$46,406, based on 31 respondents.",salary_by_role_country,31
-"In Brazil, the median annual salary for a Developer, desktop or enterprise applications is \$26,213, based on 31 respondents.",salary_by_role_country,31
-"In United States of America, the median annual salary for a Developer, mobile is \$170,000, based on 123 respondents.",salary_by_role_country,123
-"In Germany, the median annual salary for a Developer, mobile is \$92,812, based on 69 respondents.",salary_by_role_country,69
-"In India, the median annual salary for a Developer, mobile is \$10,462, based on 54 respondents.",salary_by_role_country,54
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Developer, mobile is \$99,383, based on 37 respondents.",salary_by_role_country,37
-"In Poland, the median annual salary for a Developer, mobile is \$68,748, based on 40 respondents.",salary_by_role_country,40
-"In United States of America, the median annual salary for a Developer, embedded applications or devices is \$135,000, based on 172 respondents.",salary_by_role_country,172
-"In Germany, the median annual salary for a Developer, embedded applications or devices is \$83,531, based on 77 respondents.",salary_by_role_country,77
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Developer, embedded applications or devices is \$89,845, based on 46 respondents.",salary_by_role_country,46
-"In France, the median annual salary for a Developer, embedded applications or devices is \$56,847, based on 52 respondents.",salary_by_role_country,52
-"In Poland, the median annual salary for a Developer, embedded applications or devices is \$49,122, based on 37 respondents.",salary_by_role_country,37
-"In United States of America, the median annual salary for a Academic researcher is \$60,000, based on 113 respondents.",salary_by_role_country,113
-"In Germany, the median annual salary for a Academic researcher is \$69,609, based on 97 respondents.",salary_by_role_country,97
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Academic researcher is \$57,179, based on 45 respondents.",salary_by_role_country,45
-"In France, the median annual salary for a Academic researcher is \$38,285, based on 41 respondents.",salary_by_role_country,41
-"In United States of America, the median annual salary for a Engineering manager is \$200,000, based on 224 respondents.",salary_by_role_country,224
-"In Germany, the median annual salary for a Engineering manager is \$117,175, based on 50 respondents.",salary_by_role_country,50
-"In United Kingdom of Great Britain and Northern Ireland, the median annual salary for a Engineering manager is \$136,141, based on 56 respondents.",salary_by_role_country,56
-"In Canada, the median annual salary for a Engineering manager is \$124,029, based on 32 respondents.",salary_by_role_country,32
-"In United States of America, the median annual salary for a DevOps engineer or professional is \$165,000, based on 149 respondents.",salary_by_role_country,149
-"In Germany, the median annual salary for a DevOps engineer or professional is \$87,011, based on 78 respondents.",salary_by_role_country,78
-"In France, the median annual salary for a DevOps engineer or professional is \$69,609, based on 41 respondents.",salary_by_role_country,41
-"In Canada, the median annual salary for a DevOps engineer or professional is \$99,588, based on 36 respondents.",salary_by_role_country,36
-"In Netherlands, the median annual salary for a DevOps engineer or professional is \$92,812, based on 31 respondents.",salary_by_role_country,31
-"In United States of America, the median annual salary for a Data engineer is \$150,000, based on 118 respondents.",salary_by_role_country,118
-"In Germany, the median annual salary for a Data engineer is \$92,812, based on 34 respondents.",salary_by_role_country,34
-"In United States of America, the median annual salary for a AI/ML engineer is \$189,500, based on 80 respondents.",salary_by_role_country,80
-"In United States of America, the median annual salary for a Data scientist is \$145,000, based on 88 respondents.",salary_by_role_country,88
-"In Germany, the median annual salary for a Data scientist is \$88,171, based on 37 respondents.",salary_by_role_country,37
-"In United States of America, the median annual salary for a Senior executive (C-suite, VP, etc.) is \$230,000, based on 79 respondents.",salary_by_role_country,79
-"In United States of America, the median annual salary for a System administrator is \$85,000, based on 63 respondents.",salary_by_role_country,63
-"In United States of America, the median annual salary for a Developer, game or graphics is \$125,000, based on 36 respondents.",salary_by_role_country,36
-"In United States of America, the median annual salary for a Cloud infrastructure engineer is \$195,000, based on 77 respondents.",salary_by_role_country,77
-"In United States of America, the median annual salary for a Founder, technology or otherwise is \$145,000, based on 50 respondents.",salary_by_role_country,50
-"In United States of America, the median annual salary for a Cybersecurity or InfoSec professional is \$153,000, based on 55 respondents.",salary_by_role_country,55
-"In United States of America, the median annual salary for a Data or business analyst is \$100,478, based on 46 respondents.",salary_by_role_country,46
-"In United States of America, the median annual salary for a Developer, QA or test is \$120,000, based on 44 respondents.",salary_by_role_country,44
-"In United States of America, the median annual salary for a Applied scientist is \$160,000, based on 55 respondents.",salary_by_role_country,55
-"In United States of America, the median annual salary for a Support engineer or analyst is \$90,000, based on 35 respondents.",salary_by_role_country,35
-"In United States of America, the median annual salary for a Product manager is \$200,000, based on 34 respondents.",salary_by_role_country,34
-"In United States of America, the median annual salary for a Database administrator or engineer is \$141,500, based on 30 respondents.",salary_by_role_country,30
+"The median annual salary among full-stack developer respondents is \$72,958, based on 7247 respondents.",salary_by_role,7247
+"The median annual salary among back-end developer respondents is \$80,871, based on 3852 respondents.",salary_by_role,3852
+"The median annual salary among Student respondents is \$13,278, based on 331 respondents.",salary_by_role,331
+"The median annual salary among Architect, software or solutions respondents is \$102,142, based on 1602 respondents.",salary_by_role,1602
+"The median annual salary among front-end developer respondents is \$63,808, based on 1085 respondents.",salary_by_role,1085
+"The median annual salary among desktop or enterprise applications developer respondents is \$74,423, based on 1103 respondents.",salary_by_role,1103
+"The median annual salary among mobile developer respondents is \$71,899, based on 739 respondents.",salary_by_role,739
+"The median annual salary among embedded applications or devices developer respondents is \$81,210, based on 754 respondents.",salary_by_role,754
+"The median annual salary among Academic researcher respondents is \$46,806, based on 553 respondents.",salary_by_role,553
+"The median annual salary among Engineering manager respondents is \$131,158, based on 708 respondents.",salary_by_role,708
+"The median annual salary among DevOps engineer or professional respondents is \$87,328, based on 683 respondents.",salary_by_role,683
+"The median annual salary among Data engineer respondents is \$81,210, based on 477 respondents.",salary_by_role,477
+"The median annual salary among AI/ML engineer respondents is \$92,812, based on 336 respondents.",salary_by_role,336
+"The median annual salary among Data scientist respondents is \$81,531, based on 336 respondents.",salary_by_role,336
+"The median annual salary among Senior executive (C-suite, VP, etc.) respondents is \$139,218, based on 306 respondents.",salary_by_role,306
+"The median annual salary among System administrator respondents is \$52,604, based on 232 respondents.",salary_by_role,232
+"The median annual salary among game or graphics developer respondents is \$72,606, based on 194 respondents.",salary_by_role,194
+"The median annual salary among Cloud infrastructure engineer respondents is \$107,894, based on 255 respondents.",salary_by_role,255
+"The median annual salary among Founder, technology or otherwise respondents is \$96,000, based on 187 respondents.",salary_by_role,187
+"The median annual salary among Cybersecurity or InfoSec professional respondents is \$104,214, based on 182 respondents.",salary_by_role,182
+"The median annual salary among Data or business analyst respondents is \$58,433, based on 178 respondents.",salary_by_role,178
+"The median annual salary among QA or test developer respondents is \$58,946, based on 187 respondents.",salary_by_role,187
+"The median annual salary among Project manager respondents is \$69,609, based on 153 respondents.",salary_by_role,153
+"The median annual salary among Applied scientist respondents is \$100,552, based on 158 respondents.",salary_by_role,158
+"The median annual salary among Support engineer or analyst respondents is \$61,264, based on 123 respondents.",salary_by_role,123
+"The median annual salary among AI apps or physical AI developer respondents is \$69,609, based on 101 respondents.",salary_by_role,101
+"The median annual salary among Product manager respondents is \$106,752, based on 109 respondents.",salary_by_role,109
+"The median annual salary among Database administrator or engineer respondents is \$85,884, based on 98 respondents.",salary_by_role,98
+"The median annual salary among UX, Research Ops or UI design professional respondents is \$74,878, based on 41 respondents.",salary_by_role,41
+"In United States of America, the median annual salary among full-stack developer respondents is \$138,000, based on 1654 respondents.",salary_by_role_country,1654
+"In Germany, the median annual salary among full-stack developer respondents is \$75,410, based on 651 respondents.",salary_by_role_country,651
+"In India, the median annual salary among full-stack developer respondents is \$13,949, based on 340 respondents.",salary_by_role_country,340
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among full-stack developer respondents is \$85,769, based on 475 respondents.",salary_by_role_country,475
+"In France, the median annual salary among full-stack developer respondents is \$58,007, based on 293 respondents.",salary_by_role_country,293
+"In Canada, the median annual salary among full-stack developer respondents is \$80,254, based on 310 respondents.",salary_by_role_country,310
+"In Ukraine, the median annual salary among full-stack developer respondents is \$28,759, based on 134 respondents.",salary_by_role_country,134
+"In Poland, the median annual salary among full-stack developer respondents is \$60,518, based on 123 respondents.",salary_by_role_country,123
+"In Netherlands, the median annual salary among full-stack developer respondents is \$75,410, based on 190 respondents.",salary_by_role_country,190
+"In Italy, the median annual salary among full-stack developer respondents is \$42,925, based on 168 respondents.",salary_by_role_country,168
+"In Brazil, the median annual salary among full-stack developer respondents is \$25,485, based on 202 respondents.",salary_by_role_country,202
+"In Australia, the median annual salary among full-stack developer respondents is \$87,763, based on 181 respondents.",salary_by_role_country,181
+"In Spain, the median annual salary among full-stack developer respondents is \$58,007, based on 147 respondents.",salary_by_role_country,147
+"In Sweden, the median annual salary among full-stack developer respondents is \$66,038, based on 150 respondents.",salary_by_role_country,150
+"In Switzerland, the median annual salary among full-stack developer respondents is \$136,392, based on 133 respondents.",salary_by_role_country,133
+"In United States of America, the median annual salary among back-end developer respondents is \$176,500, based on 684 respondents.",salary_by_role_country,684
+"In Germany, the median annual salary among back-end developer respondents is \$86,373, based on 294 respondents.",salary_by_role_country,294
+"In India, the median annual salary among back-end developer respondents is \$22,667, based on 204 respondents.",salary_by_role_country,204
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among back-end developer respondents is \$108,913, based on 260 respondents.",salary_by_role_country,260
+"In France, the median annual salary among back-end developer respondents is \$71,929, based on 149 respondents.",salary_by_role_country,149
+"In Canada, the median annual salary among back-end developer respondents is \$109,438, based on 121 respondents.",salary_by_role_country,121
+"In Ukraine, the median annual salary among back-end developer respondents is \$29,958, based on 203 respondents.",salary_by_role_country,203
+"In Poland, the median annual salary among back-end developer respondents is \$70,954, based on 155 respondents.",salary_by_role_country,155
+"In Netherlands, the median annual salary among back-end developer respondents is \$87,011, based on 106 respondents.",salary_by_role_country,106
+"In Italy, the median annual salary among back-end developer respondents is \$48,726, based on 91 respondents.",salary_by_role_country,91
+"In Brazil, the median annual salary among back-end developer respondents is \$33,677, based on 131 respondents.",salary_by_role_country,131
+"In Australia, the median annual salary among back-end developer respondents is \$107,265, based on 78 respondents.",salary_by_role_country,78
+"In Spain, the median annual salary among back-end developer respondents is \$70,769, based on 90 respondents.",salary_by_role_country,90
+"In Sweden, the median annual salary among back-end developer respondents is \$73,375, based on 100 respondents.",salary_by_role_country,100
+"In Switzerland, the median annual salary among back-end developer respondents is \$154,061, based on 52 respondents.",salary_by_role_country,52
+"In United States of America, the median annual salary among Student respondents is \$29,500, based on 68 respondents.",salary_by_role_country,68
+"In Germany, the median annual salary among Student respondents is \$14,502, based on 52 respondents.",salary_by_role_country,52
+"In United States of America, the median annual salary among Architect, software or solutions respondents is \$185,000, based on 325 respondents.",salary_by_role_country,325
+"In Germany, the median annual salary among Architect, software or solutions respondents is \$109,634, based on 162 respondents.",salary_by_role_country,162
+"In India, the median annual salary among Architect, software or solutions respondents is \$47,077, based on 72 respondents.",salary_by_role_country,72
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among Architect, software or solutions respondents is \$122,527, based on 101 respondents.",salary_by_role_country,101
+"In France, the median annual salary among Architect, software or solutions respondents is \$81,210, based on 72 respondents.",salary_by_role_country,72
+"In Canada, the median annual salary among Architect, software or solutions respondents is \$109,073, based on 46 respondents.",salary_by_role_country,46
+"In Netherlands, the median annual salary among Architect, software or solutions respondents is \$104,413, based on 49 respondents.",salary_by_role_country,49
+"In Italy, the median annual salary among Architect, software or solutions respondents is \$66,128, based on 69 respondents.",salary_by_role_country,69
+"In Brazil, the median annual salary among Architect, software or solutions respondents is \$43,689, based on 40 respondents.",salary_by_role_country,40
+"In Australia, the median annual salary among Architect, software or solutions respondents is \$130,019, based on 35 respondents.",salary_by_role_country,35
+"In Spain, the median annual salary among Architect, software or solutions respondents is \$69,609, based on 69 respondents.",salary_by_role_country,69
+"In Sweden, the median annual salary among Architect, software or solutions respondents is \$89,098, based on 36 respondents.",salary_by_role_country,36
+"In Switzerland, the median annual salary among Architect, software or solutions respondents is \$172,350, based on 30 respondents.",salary_by_role_country,30
+"In United States of America, the median annual salary among front-end developer respondents is \$149,500, based on 198 respondents.",salary_by_role_country,198
+"In Germany, the median annual salary among front-end developer respondents is \$79,223, based on 91 respondents.",salary_by_role_country,91
+"In India, the median annual salary among front-end developer respondents is \$11,043, based on 74 respondents.",salary_by_role_country,74
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among front-end developer respondents is \$87,130, based on 52 respondents.",salary_by_role_country,52
+"In France, the median annual salary among front-end developer respondents is \$61,487, based on 42 respondents.",salary_by_role_country,42
+"In Canada, the median annual salary among front-end developer respondents is \$72,958, based on 41 respondents.",salary_by_role_country,41
+"In Ukraine, the median annual salary among front-end developer respondents is \$31,765, based on 69 respondents.",salary_by_role_country,69
+"In Spain, the median annual salary among front-end developer respondents is \$58,007, based on 32 respondents.",salary_by_role_country,32
+"In United States of America, the median annual salary among desktop or enterprise applications developer respondents is \$128,000, based on 255 respondents.",salary_by_role_country,255
+"In Germany, the median annual salary among desktop or enterprise applications developer respondents is \$81,210, based on 124 respondents.",salary_by_role_country,124
+"In India, the median annual salary among desktop or enterprise applications developer respondents is \$26,444, based on 32 respondents.",salary_by_role_country,32
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among desktop or enterprise applications developer respondents is \$81,685, based on 67 respondents.",salary_by_role_country,67
+"In France, the median annual salary among desktop or enterprise applications developer respondents is \$54,527, based on 49 respondents.",salary_by_role_country,49
+"In Canada, the median annual salary among desktop or enterprise applications developer respondents is \$87,550, based on 58 respondents.",salary_by_role_country,58
+"In Poland, the median annual salary among desktop or enterprise applications developer respondents is \$59,492, based on 30 respondents.",salary_by_role_country,30
+"In Italy, the median annual salary among desktop or enterprise applications developer respondents is \$46,406, based on 31 respondents.",salary_by_role_country,31
+"In Brazil, the median annual salary among desktop or enterprise applications developer respondents is \$26,213, based on 31 respondents.",salary_by_role_country,31
+"In United States of America, the median annual salary among mobile developer respondents is \$170,000, based on 123 respondents.",salary_by_role_country,123
+"In Germany, the median annual salary among mobile developer respondents is \$92,812, based on 69 respondents.",salary_by_role_country,69
+"In India, the median annual salary among mobile developer respondents is \$10,462, based on 54 respondents.",salary_by_role_country,54
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among mobile developer respondents is \$99,383, based on 37 respondents.",salary_by_role_country,37
+"In Poland, the median annual salary among mobile developer respondents is \$68,748, based on 40 respondents.",salary_by_role_country,40
+"In United States of America, the median annual salary among embedded applications or devices developer respondents is \$135,000, based on 172 respondents.",salary_by_role_country,172
+"In Germany, the median annual salary among embedded applications or devices developer respondents is \$83,531, based on 77 respondents.",salary_by_role_country,77
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among embedded applications or devices developer respondents is \$89,845, based on 46 respondents.",salary_by_role_country,46
+"In France, the median annual salary among embedded applications or devices developer respondents is \$56,847, based on 52 respondents.",salary_by_role_country,52
+"In Poland, the median annual salary among embedded applications or devices developer respondents is \$49,122, based on 37 respondents.",salary_by_role_country,37
+"In United States of America, the median annual salary among Academic researcher respondents is \$60,000, based on 113 respondents.",salary_by_role_country,113
+"In Germany, the median annual salary among Academic researcher respondents is \$69,609, based on 97 respondents.",salary_by_role_country,97
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among Academic researcher respondents is \$57,179, based on 45 respondents.",salary_by_role_country,45
+"In France, the median annual salary among Academic researcher respondents is \$38,285, based on 41 respondents.",salary_by_role_country,41
+"In United States of America, the median annual salary among Engineering manager respondents is \$200,000, based on 224 respondents.",salary_by_role_country,224
+"In Germany, the median annual salary among Engineering manager respondents is \$117,175, based on 50 respondents.",salary_by_role_country,50
+"In United Kingdom of Great Britain and Northern Ireland, the median annual salary among Engineering manager respondents is \$136,141, based on 56 respondents.",salary_by_role_country,56
+"In Canada, the median annual salary among Engineering manager respondents is \$124,029, based on 32 respondents.",salary_by_role_country,32
+"In United States of America, the median annual salary among DevOps engineer or professional respondents is \$165,000, based on 149 respondents.",salary_by_role_country,149
+"In Germany, the median annual salary among DevOps engineer or professional respondents is \$87,011, based on 78 respondents.",salary_by_role_country,78
+"In France, the median annual salary among DevOps engineer or professional respondents is \$69,609, based on 41 respondents.",salary_by_role_country,41
+"In Canada, the median annual salary among DevOps engineer or professional respondents is \$99,588, based on 36 respondents.",salary_by_role_country,36
+"In Netherlands, the median annual salary among DevOps engineer or professional respondents is \$92,812, based on 31 respondents.",salary_by_role_country,31
+"In United States of America, the median annual salary among Data engineer respondents is \$150,000, based on 118 respondents.",salary_by_role_country,118
+"In Germany, the median annual salary among Data engineer respondents is \$92,812, based on 34 respondents.",salary_by_role_country,34
+"In United States of America, the median annual salary among AI/ML engineer respondents is \$189,500, based on 80 respondents.",salary_by_role_country,80
+"In United States of America, the median annual salary among Data scientist respondents is \$145,000, based on 88 respondents.",salary_by_role_country,88
+"In Germany, the median annual salary among Data scientist respondents is \$88,171, based on 37 respondents.",salary_by_role_country,37
+"In United States of America, the median annual salary among Senior executive (C-suite, VP, etc.) respondents is \$230,000, based on 79 respondents.",salary_by_role_country,79
+"In United States of America, the median annual salary among System administrator respondents is \$85,000, based on 63 respondents.",salary_by_role_country,63
+"In United States of America, the median annual salary among game or graphics developer respondents is \$125,000, based on 36 respondents.",salary_by_role_country,36
+"In United States of America, the median annual salary among Cloud infrastructure engineer respondents is \$195,000, based on 77 respondents.",salary_by_role_country,77
+"In United States of America, the median annual salary among Founder, technology or otherwise respondents is \$145,000, based on 50 respondents.",salary_by_role_country,50
+"In United States of America, the median annual salary among Cybersecurity or InfoSec professional respondents is \$153,000, based on 55 respondents.",salary_by_role_country,55
+"In United States of America, the median annual salary among Data or business analyst respondents is \$100,478, based on 46 respondents.",salary_by_role_country,46
+"In United States of America, the median annual salary among QA or test developer respondents is \$120,000, based on 44 respondents.",salary_by_role_country,44
+"In United States of America, the median annual salary among Applied scientist respondents is \$160,000, based on 55 respondents.",salary_by_role_country,55
+"In United States of America, the median annual salary among Support engineer or analyst respondents is \$90,000, based on 35 respondents.",salary_by_role_country,35
+"In United States of America, the median annual salary among Product manager respondents is \$200,000, based on 34 respondents.",salary_by_role_country,34
+"In United States of America, the median annual salary among Database administrator or engineer respondents is \$141,500, based on 30 respondents.",salary_by_role_country,30
 "Developers with 0-2 years of professional experience report a median annual salary of \$25,523, based on 1815 respondents.",salary_by_experience,1815
 "Developers with 3-5 years of professional experience report a median annual salary of \$45,478, based on 3541 respondents.",salary_by_experience,3541
 "Developers with 6-10 years of professional experience report a median annual salary of \$73,375, based on 5445 respondents.",salary_by_experience,5445
@@ -150,6 +150,28 @@ text,category,n
 "The median annual salary in Spain is \$63,228, based on 552 respondents.",salary_by_country,552
 "The median annual salary in Sweden is \$71,017, based on 468 respondents.",salary_by_country,468
 "The median annual salary in Switzerland is \$142,592, based on 414 respondents.",salary_by_country,414
+"Developers whose highest education is 'Master’s degree (M.A., M.S., M.Eng., MBA, etc.)' report a median annual salary of \$81,210, based on 6763 respondents.",salary_by_education,6763
+"Developers whose highest education is 'Associate degree (A.A., A.S., etc.)' report a median annual salary of \$70,898, based on 771 respondents.",salary_by_education,771
+"Developers whose highest education is 'Bachelor’s degree (B.A., B.S., B.Eng., etc.)' report a median annual salary of \$80,000, based on 10116 respondents.",salary_by_education,10116
+"Developers whose highest education is 'Some college/university study without earning a degree' report a median annual salary of \$69,609, based on 2759 respondents.",salary_by_education,2759
+"Developers whose highest education is 'Professional degree (JD, MD, Ph.D, Ed.D, etc.)' report a median annual salary of \$89,713, based on 1320 respondents.",salary_by_education,1320
+"Developers whose highest education is 'Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)' report a median annual salary of \$55,032, based on 1156 respondents.",salary_by_education,1156
+"Developers whose highest education is 'Primary/elementary school' report a median annual salary of \$64,408, based on 108 respondents.",salary_by_education,108
+"Among people manager respondents, the median annual salary is \$92,812, based on 2946 respondents.",salary_by_ic_or_manager,2946
+"Among individual contributor respondents, the median annual salary is \$75,410, based on 17394 respondents.",salary_by_ic_or_manager,17394
+"Developers at companies with 20 to 99 employees report a median annual salary of \$70,000, based on 4171 respondents.",salary_by_org_size,4171
+"Developers at companies with 500 to 999 employees report a median annual salary of \$81,210, based on 1551 respondents.",salary_by_org_size,1551
+"Developers at companies with 10,000 or more employees report a median annual salary of \$102,124, based on 3140 respondents.",salary_by_org_size,3140
+"Developers at companies with less than 20 employees report a median annual salary of \$58,007, based on 3199 respondents.",salary_by_org_size,3199
+"Developers at companies with 5,000 to 9,999 employees report a median annual salary of \$88,692, based on 1039 respondents.",salary_by_org_size,1039
+"Developers at companies with 100 to 499 employees report a median annual salary of \$81,210, based on 3931 respondents.",salary_by_org_size,3931
+"Developers at companies with 1,000 to 4,999 employees report a median annual salary of \$84,716, based on 2695 respondents.",salary_by_org_size,2695
+"Developers at companies with just me - i am a freelancer, sole proprietor, etc. report a median annual salary of \$41,765, based on 631 respondents.",salary_by_org_size,631
+"Developers working 'Remote' report a median annual salary of \$91,198, based on 6919 respondents.",salary_by_remote,6919
+"Developers working 'Hybrid (some in-person, leans heavy to flexibility)' report a median annual salary of \$81,210, based on 3755 respondents.",salary_by_remote,3755
+"Developers working 'In-person' report a median annual salary of \$48,615, based on 3080 respondents.",salary_by_remote,3080
+"Developers working 'Hybrid (some remote, leans heavy to in-person)' report a median annual salary of \$74,133, based on 4114 respondents.",salary_by_remote,4114
+"Developers working 'Your choice (very flexible, you can come in when you want or just as needed)' report a median annual salary of \$77,730, based on 2689 respondents.",salary_by_remote,2689
 "66% of developers used JavaScript as their language/technology in the past year, based on 31671 respondents.",tech_adoption_overall_LanguageHaveWorkedWith,31671
 "62% of developers used HTML/CSS as their language/technology in the past year, based on 31671 respondents.",tech_adoption_overall_LanguageHaveWorkedWith,31671
 "59% of developers used SQL as their language/technology in the past year, based on 31671 respondents.",tech_adoption_overall_LanguageHaveWorkedWith,31671
@@ -175,157 +197,474 @@ text,category,n
 "36% of developers used Gemini (Flash general purpose models) as their AI model/LLM in the past year, based on 16281 respondents.",tech_adoption_overall_AIModelsHaveWorkedWith,16281
 "35% of developers used openAI Reasoning models as their AI model/LLM in the past year, based on 16281 respondents.",tech_adoption_overall_AIModelsHaveWorkedWith,16281
 "27% of developers used openAI Image generating models as their AI model/LLM in the past year, based on 16281 respondents.",tech_adoption_overall_AIModelsHaveWorkedWith,16281
-"Among Developer, full-stacks, 87% used JavaScript in the past year, based on 9111 respondents.",tech_by_role,9111
-"Among Developer, full-stacks, 83% used HTML/CSS in the past year, based on 9111 respondents.",tech_by_role,9111
-"Among Developer, full-stacks, 72% used SQL in the past year, based on 9111 respondents.",tech_by_role,9111
-"Among Developer, back-ends, 64% used SQL in the past year, based on 4695 respondents.",tech_by_role,4695
-"Among Developer, back-ends, 57% used JavaScript in the past year, based on 4695 respondents.",tech_by_role,4695
-"Among Developer, back-ends, 54% used Python in the past year, based on 4695 respondents.",tech_by_role,4695
-"Among Students, 77% used Python in the past year, based on 2063 respondents.",tech_by_role,2063
-"Among Students, 69% used HTML/CSS in the past year, based on 2063 respondents.",tech_by_role,2063
-"Among Students, 64% used JavaScript in the past year, based on 2063 respondents.",tech_by_role,2063
-"Among Architect, software or solutionss, 70% used JavaScript in the past year, based on 2020 respondents.",tech_by_role,2020
-"Among Architect, software or solutionss, 67% used SQL in the past year, based on 2020 respondents.",tech_by_role,2020
-"Among Architect, software or solutionss, 62% used HTML/CSS in the past year, based on 2020 respondents.",tech_by_role,2020
-"Among Developer, front-ends, 93% used JavaScript in the past year, based on 1402 respondents.",tech_by_role,1402
-"Among Developer, front-ends, 86% used HTML/CSS in the past year, based on 1402 respondents.",tech_by_role,1402
-"Among Developer, front-ends, 77% used TypeScript in the past year, based on 1402 respondents.",tech_by_role,1402
-"Among Developer, desktop or enterprise applicationss, 57% used SQL in the past year, based on 1489 respondents.",tech_by_role,1489
-"Among Developer, desktop or enterprise applicationss, 50% used JavaScript in the past year, based on 1489 respondents.",tech_by_role,1489
-"Among Developer, desktop or enterprise applicationss, 49% used HTML/CSS in the past year, based on 1489 respondents.",tech_by_role,1489
-"Among Developer, mobiles, 57% used Kotlin in the past year, based on 931 respondents.",tech_by_role,931
-"Among Developer, mobiles, 53% used Swift in the past year, based on 931 respondents.",tech_by_role,931
-"Among Developer, mobiles, 45% used JavaScript in the past year, based on 931 respondents.",tech_by_role,931
-"Among Developer, embedded applications or devicess, 80% used C in the past year, based on 968 respondents.",tech_by_role,968
-"Among Developer, embedded applications or devicess, 78% used Python in the past year, based on 968 respondents.",tech_by_role,968
-"Among Developer, embedded applications or devicess, 73% used C++ in the past year, based on 968 respondents.",tech_by_role,968
-"Among Academic researchers, 85% used Python in the past year, based on 824 respondents.",tech_by_role,824
-"Among Academic researchers, 54% used Bash/Shell (all shells) in the past year, based on 824 respondents.",tech_by_role,824
-"Among Academic researchers, 45% used HTML/CSS in the past year, based on 824 respondents.",tech_by_role,824
-"Among Engineering managers, 68% used JavaScript in the past year, based on 783 respondents.",tech_by_role,783
-"Among Engineering managers, 63% used SQL in the past year, based on 783 respondents.",tech_by_role,783
-"Among Engineering managers, 62% used Python in the past year, based on 783 respondents.",tech_by_role,783
-"Among DevOps engineer or professionals, 78% used Bash/Shell (all shells) in the past year, based on 809 respondents.",tech_by_role,809
-"Among DevOps engineer or professionals, 77% used Python in the past year, based on 809 respondents.",tech_by_role,809
-"Among DevOps engineer or professionals, 60% used SQL in the past year, based on 809 respondents.",tech_by_role,809
-"Among Data engineers, 91% used Python in the past year, based on 567 respondents.",tech_by_role,567
-"Among Data engineers, 82% used SQL in the past year, based on 567 respondents.",tech_by_role,567
-"Among Data engineers, 57% used Bash/Shell (all shells) in the past year, based on 567 respondents.",tech_by_role,567
-"Among AI/ML engineers, 94% used Python in the past year, based on 441 respondents.",tech_by_role,441
-"Among AI/ML engineers, 58% used SQL in the past year, based on 441 respondents.",tech_by_role,441
-"Among AI/ML engineers, 52% used Bash/Shell (all shells) in the past year, based on 441 respondents.",tech_by_role,441
-"Among Data scientists, 90% used Python in the past year, based on 438 respondents.",tech_by_role,438
-"Among Data scientists, 66% used SQL in the past year, based on 438 respondents.",tech_by_role,438
-"Among Data scientists, 43% used Bash/Shell (all shells) in the past year, based on 438 respondents.",tech_by_role,438
-"Among Senior executive (C-suite, VP, etc.)s, 74% used JavaScript in the past year, based on 395 respondents.",tech_by_role,395
-"Among Senior executive (C-suite, VP, etc.)s, 73% used SQL in the past year, based on 395 respondents.",tech_by_role,395
-"Among Senior executive (C-suite, VP, etc.)s, 68% used HTML/CSS in the past year, based on 395 respondents.",tech_by_role,395
-"Among System administrators, 67% used Bash/Shell (all shells) in the past year, based on 347 respondents.",tech_by_role,347
-"Among System administrators, 65% used Python in the past year, based on 347 respondents.",tech_by_role,347
-"Among System administrators, 61% used HTML/CSS in the past year, based on 347 respondents.",tech_by_role,347
-"Among Developer, game or graphicss, 65% used C++ in the past year, based on 329 respondents.",tech_by_role,329
-"Among Developer, game or graphicss, 56% used C# in the past year, based on 329 respondents.",tech_by_role,329
-"Among Developer, game or graphicss, 49% used Python in the past year, based on 329 respondents.",tech_by_role,329
-"Among Cloud infrastructure engineers, 77% used Bash/Shell (all shells) in the past year, based on 297 respondents.",tech_by_role,297
-"Among Cloud infrastructure engineers, 75% used Python in the past year, based on 297 respondents.",tech_by_role,297
-"Among Cloud infrastructure engineers, 53% used JavaScript in the past year, based on 297 respondents.",tech_by_role,297
-"Among Founder, technology or otherwises, 77% used JavaScript in the past year, based on 323 respondents.",tech_by_role,323
-"Among Founder, technology or otherwises, 70% used HTML/CSS in the past year, based on 323 respondents.",tech_by_role,323
-"Among Founder, technology or otherwises, 62% used Python in the past year, based on 323 respondents.",tech_by_role,323
-"Among Cybersecurity or InfoSec professionals, 83% used Python in the past year, based on 278 respondents.",tech_by_role,278
-"Among Cybersecurity or InfoSec professionals, 69% used Bash/Shell (all shells) in the past year, based on 278 respondents.",tech_by_role,278
-"Among Cybersecurity or InfoSec professionals, 61% used JavaScript in the past year, based on 278 respondents.",tech_by_role,278
-"Among Data or business analysts, 76% used SQL in the past year, based on 233 respondents.",tech_by_role,233
-"Among Data or business analysts, 76% used Python in the past year, based on 233 respondents.",tech_by_role,233
-"Among Data or business analysts, 54% used HTML/CSS in the past year, based on 233 respondents.",tech_by_role,233
-"Among Developer, QA or tests, 65% used Python in the past year, based on 249 respondents.",tech_by_role,249
-"Among Developer, QA or tests, 63% used JavaScript in the past year, based on 249 respondents.",tech_by_role,249
-"Among Developer, QA or tests, 52% used Bash/Shell (all shells) in the past year, based on 249 respondents.",tech_by_role,249
-"Among Project managers, 64% used JavaScript in the past year, based on 204 respondents.",tech_by_role,204
-"Among Project managers, 62% used SQL in the past year, based on 204 respondents.",tech_by_role,204
-"Among Project managers, 61% used HTML/CSS in the past year, based on 204 respondents.",tech_by_role,204
-"Among Applied scientists, 83% used Python in the past year, based on 225 respondents.",tech_by_role,225
-"Among Applied scientists, 55% used Bash/Shell (all shells) in the past year, based on 225 respondents.",tech_by_role,225
-"Among Applied scientists, 42% used C++ in the past year, based on 225 respondents.",tech_by_role,225
-"Among Support engineer or analysts, 70% used Python in the past year, based on 173 respondents.",tech_by_role,173
-"Among Support engineer or analysts, 57% used Bash/Shell (all shells) in the past year, based on 173 respondents.",tech_by_role,173
-"Among Support engineer or analysts, 57% used SQL in the past year, based on 173 respondents.",tech_by_role,173
-"Among Developer, AI apps or physical AIs, 78% used Python in the past year, based on 146 respondents.",tech_by_role,146
-"Among Developer, AI apps or physical AIs, 61% used JavaScript in the past year, based on 146 respondents.",tech_by_role,146
-"Among Developer, AI apps or physical AIs, 59% used HTML/CSS in the past year, based on 146 respondents.",tech_by_role,146
-"Among Product managers, 63% used JavaScript in the past year, based on 131 respondents.",tech_by_role,131
-"Among Product managers, 61% used Python in the past year, based on 131 respondents.",tech_by_role,131
-"Among Product managers, 60% used SQL in the past year, based on 131 respondents.",tech_by_role,131
-"Among Database administrator or engineers, 89% used SQL in the past year, based on 123 respondents.",tech_by_role,123
-"Among Database administrator or engineers, 56% used Python in the past year, based on 123 respondents.",tech_by_role,123
-"Among Database administrator or engineers, 51% used Bash/Shell (all shells) in the past year, based on 123 respondents.",tech_by_role,123
-"Among UX, Research Ops or UI design professionals, 83% used HTML/CSS in the past year, based on 63 respondents.",tech_by_role,63
-"Among UX, Research Ops or UI design professionals, 83% used JavaScript in the past year, based on 63 respondents.",tech_by_role,63
-"Among UX, Research Ops or UI design professionals, 43% used TypeScript in the past year, based on 63 respondents.",tech_by_role,63
-"Developers working 'Remote' report an average job satisfaction of 7.3 out of 10, based on 7908 respondents.",satisfaction_by_remote,7908
-"Developers working 'Hybrid (some in-person, leans heavy to flexibility)' report an average job satisfaction of 7.2 out of 10, based on 4046 respondents.",satisfaction_by_remote,4046
-"Developers working 'In-person' report an average job satisfaction of 7.0 out of 10, based on 3496 respondents.",satisfaction_by_remote,3496
-"Developers working 'Hybrid (some remote, leans heavy to in-person)' report an average job satisfaction of 7.1 out of 10, based on 4499 respondents.",satisfaction_by_remote,4499
-"Developers working 'Your choice (very flexible, you can come in when you want or just as needed)' report an average job satisfaction of 7.4 out of 10, based on 2848 respondents.",satisfaction_by_remote,2848
-"Developer, full-stacks report an average job satisfaction of 7.2 out of 10, based on 9385 respondents.",satisfaction_by_role,9385
-"Developer, back-ends report an average job satisfaction of 7.0 out of 10, based on 4937 respondents.",satisfaction_by_role,4937
-"Students report an average job satisfaction of 6.8 out of 10, based on 355 respondents.",satisfaction_by_role,355
-"Architect, software or solutionss report an average job satisfaction of 7.5 out of 10, based on 1865 respondents.",satisfaction_by_role,1865
-"Developer, front-ends report an average job satisfaction of 7.0 out of 10, based on 1418 respondents.",satisfaction_by_role,1418
-"Developer, desktop or enterprise applicationss report an average job satisfaction of 7.2 out of 10, based on 1454 respondents.",satisfaction_by_role,1454
-"Developer, mobiles report an average job satisfaction of 7.2 out of 10, based on 1029 respondents.",satisfaction_by_role,1029
-"Developer, embedded applications or devicess report an average job satisfaction of 7.1 out of 10, based on 962 respondents.",satisfaction_by_role,962
-"Academic researchers report an average job satisfaction of 7.4 out of 10, based on 285 respondents.",satisfaction_by_role,285
-"Engineering managers report an average job satisfaction of 7.4 out of 10, based on 595 respondents.",satisfaction_by_role,595
-"DevOps engineer or professionals report an average job satisfaction of 7.3 out of 10, based on 604 respondents.",satisfaction_by_role,604
-"Data engineers report an average job satisfaction of 7.1 out of 10, based on 514 respondents.",satisfaction_by_role,514
-"AI/ML engineers report an average job satisfaction of 7.3 out of 10, based on 433 respondents.",satisfaction_by_role,433
-"Data scientists report an average job satisfaction of 7.3 out of 10, based on 285 respondents.",satisfaction_by_role,285
-"Senior executive (C-suite, VP, etc.)s report an average job satisfaction of 8.2 out of 10, based on 273 respondents.",satisfaction_by_role,273
-"System administrators report an average job satisfaction of 6.9 out of 10, based on 56 respondents.",satisfaction_by_role,56
-"Developer, game or graphicss report an average job satisfaction of 7.4 out of 10, based on 301 respondents.",satisfaction_by_role,301
-"Cloud infrastructure engineers report an average job satisfaction of 7.1 out of 10, based on 234 respondents.",satisfaction_by_role,234
-"Founder, technology or otherwises report an average job satisfaction of 8.4 out of 10, based on 235 respondents.",satisfaction_by_role,235
-"Cybersecurity or InfoSec professionals report an average job satisfaction of 7.6 out of 10, based on 113 respondents.",satisfaction_by_role,113
-"Data or business analysts report an average job satisfaction of 6.9 out of 10, based on 77 respondents.",satisfaction_by_role,77
-"Developer, QA or tests report an average job satisfaction of 6.7 out of 10, based on 164 respondents.",satisfaction_by_role,164
-"Project managers report an average job satisfaction of 7.3 out of 10, based on 80 respondents.",satisfaction_by_role,80
-"Applied scientists report an average job satisfaction of 7.6 out of 10, based on 109 respondents.",satisfaction_by_role,109
-"Support engineer or analysts report an average job satisfaction of 6.4 out of 10, based on 51 respondents.",satisfaction_by_role,51
-"Developer, AI apps or physical AIs report an average job satisfaction of 7.3 out of 10, based on 148 respondents.",satisfaction_by_role,148
-"Product managers report an average job satisfaction of 7.9 out of 10, based on 38 respondents.",satisfaction_by_role,38
-"Database administrator or engineers report an average job satisfaction of 7.2 out of 10, based on 75 respondents.",satisfaction_by_role,75
+"Among full-stack developer respondents, 87% used JavaScript as their language/technology in the past year, based on 9111 respondents.",tech_by_role,9111
+"Among full-stack developer respondents, 83% used HTML/CSS as their language/technology in the past year, based on 9111 respondents.",tech_by_role,9111
+"Among full-stack developer respondents, 72% used SQL as their language/technology in the past year, based on 9111 respondents.",tech_by_role,9111
+"Among back-end developer respondents, 64% used SQL as their language/technology in the past year, based on 4695 respondents.",tech_by_role,4695
+"Among back-end developer respondents, 57% used JavaScript as their language/technology in the past year, based on 4695 respondents.",tech_by_role,4695
+"Among back-end developer respondents, 54% used Python as their language/technology in the past year, based on 4695 respondents.",tech_by_role,4695
+"Among Student respondents, 77% used Python as their language/technology in the past year, based on 2063 respondents.",tech_by_role,2063
+"Among Student respondents, 69% used HTML/CSS as their language/technology in the past year, based on 2063 respondents.",tech_by_role,2063
+"Among Student respondents, 64% used JavaScript as their language/technology in the past year, based on 2063 respondents.",tech_by_role,2063
+"Among Architect, software or solutions respondents, 70% used JavaScript as their language/technology in the past year, based on 2020 respondents.",tech_by_role,2020
+"Among Architect, software or solutions respondents, 67% used SQL as their language/technology in the past year, based on 2020 respondents.",tech_by_role,2020
+"Among Architect, software or solutions respondents, 62% used HTML/CSS as their language/technology in the past year, based on 2020 respondents.",tech_by_role,2020
+"Among front-end developer respondents, 93% used JavaScript as their language/technology in the past year, based on 1402 respondents.",tech_by_role,1402
+"Among front-end developer respondents, 86% used HTML/CSS as their language/technology in the past year, based on 1402 respondents.",tech_by_role,1402
+"Among front-end developer respondents, 77% used TypeScript as their language/technology in the past year, based on 1402 respondents.",tech_by_role,1402
+"Among desktop or enterprise applications developer respondents, 57% used SQL as their language/technology in the past year, based on 1489 respondents.",tech_by_role,1489
+"Among desktop or enterprise applications developer respondents, 50% used JavaScript as their language/technology in the past year, based on 1489 respondents.",tech_by_role,1489
+"Among desktop or enterprise applications developer respondents, 49% used HTML/CSS as their language/technology in the past year, based on 1489 respondents.",tech_by_role,1489
+"Among mobile developer respondents, 57% used Kotlin as their language/technology in the past year, based on 931 respondents.",tech_by_role,931
+"Among mobile developer respondents, 53% used Swift as their language/technology in the past year, based on 931 respondents.",tech_by_role,931
+"Among mobile developer respondents, 45% used JavaScript as their language/technology in the past year, based on 931 respondents.",tech_by_role,931
+"Among embedded applications or devices developer respondents, 80% used C as their language/technology in the past year, based on 968 respondents.",tech_by_role,968
+"Among embedded applications or devices developer respondents, 78% used Python as their language/technology in the past year, based on 968 respondents.",tech_by_role,968
+"Among embedded applications or devices developer respondents, 73% used C++ as their language/technology in the past year, based on 968 respondents.",tech_by_role,968
+"Among Academic researcher respondents, 85% used Python as their language/technology in the past year, based on 824 respondents.",tech_by_role,824
+"Among Academic researcher respondents, 54% used Bash/Shell (all shells) as their language/technology in the past year, based on 824 respondents.",tech_by_role,824
+"Among Academic researcher respondents, 45% used HTML/CSS as their language/technology in the past year, based on 824 respondents.",tech_by_role,824
+"Among Engineering manager respondents, 68% used JavaScript as their language/technology in the past year, based on 783 respondents.",tech_by_role,783
+"Among Engineering manager respondents, 63% used SQL as their language/technology in the past year, based on 783 respondents.",tech_by_role,783
+"Among Engineering manager respondents, 62% used Python as their language/technology in the past year, based on 783 respondents.",tech_by_role,783
+"Among DevOps engineer or professional respondents, 78% used Bash/Shell (all shells) as their language/technology in the past year, based on 809 respondents.",tech_by_role,809
+"Among DevOps engineer or professional respondents, 77% used Python as their language/technology in the past year, based on 809 respondents.",tech_by_role,809
+"Among DevOps engineer or professional respondents, 60% used SQL as their language/technology in the past year, based on 809 respondents.",tech_by_role,809
+"Among Data engineer respondents, 91% used Python as their language/technology in the past year, based on 567 respondents.",tech_by_role,567
+"Among Data engineer respondents, 82% used SQL as their language/technology in the past year, based on 567 respondents.",tech_by_role,567
+"Among Data engineer respondents, 57% used Bash/Shell (all shells) as their language/technology in the past year, based on 567 respondents.",tech_by_role,567
+"Among AI/ML engineer respondents, 94% used Python as their language/technology in the past year, based on 441 respondents.",tech_by_role,441
+"Among AI/ML engineer respondents, 58% used SQL as their language/technology in the past year, based on 441 respondents.",tech_by_role,441
+"Among AI/ML engineer respondents, 52% used Bash/Shell (all shells) as their language/technology in the past year, based on 441 respondents.",tech_by_role,441
+"Among Data scientist respondents, 90% used Python as their language/technology in the past year, based on 438 respondents.",tech_by_role,438
+"Among Data scientist respondents, 66% used SQL as their language/technology in the past year, based on 438 respondents.",tech_by_role,438
+"Among Data scientist respondents, 43% used Bash/Shell (all shells) as their language/technology in the past year, based on 438 respondents.",tech_by_role,438
+"Among Senior executive (C-suite, VP, etc.) respondents, 74% used JavaScript as their language/technology in the past year, based on 395 respondents.",tech_by_role,395
+"Among Senior executive (C-suite, VP, etc.) respondents, 73% used SQL as their language/technology in the past year, based on 395 respondents.",tech_by_role,395
+"Among Senior executive (C-suite, VP, etc.) respondents, 68% used HTML/CSS as their language/technology in the past year, based on 395 respondents.",tech_by_role,395
+"Among System administrator respondents, 67% used Bash/Shell (all shells) as their language/technology in the past year, based on 347 respondents.",tech_by_role,347
+"Among System administrator respondents, 65% used Python as their language/technology in the past year, based on 347 respondents.",tech_by_role,347
+"Among System administrator respondents, 61% used HTML/CSS as their language/technology in the past year, based on 347 respondents.",tech_by_role,347
+"Among game or graphics developer respondents, 65% used C++ as their language/technology in the past year, based on 329 respondents.",tech_by_role,329
+"Among game or graphics developer respondents, 56% used C# as their language/technology in the past year, based on 329 respondents.",tech_by_role,329
+"Among game or graphics developer respondents, 49% used Python as their language/technology in the past year, based on 329 respondents.",tech_by_role,329
+"Among Cloud infrastructure engineer respondents, 77% used Bash/Shell (all shells) as their language/technology in the past year, based on 297 respondents.",tech_by_role,297
+"Among Cloud infrastructure engineer respondents, 75% used Python as their language/technology in the past year, based on 297 respondents.",tech_by_role,297
+"Among Cloud infrastructure engineer respondents, 53% used JavaScript as their language/technology in the past year, based on 297 respondents.",tech_by_role,297
+"Among Founder, technology or otherwise respondents, 77% used JavaScript as their language/technology in the past year, based on 323 respondents.",tech_by_role,323
+"Among Founder, technology or otherwise respondents, 70% used HTML/CSS as their language/technology in the past year, based on 323 respondents.",tech_by_role,323
+"Among Founder, technology or otherwise respondents, 62% used Python as their language/technology in the past year, based on 323 respondents.",tech_by_role,323
+"Among Cybersecurity or InfoSec professional respondents, 83% used Python as their language/technology in the past year, based on 278 respondents.",tech_by_role,278
+"Among Cybersecurity or InfoSec professional respondents, 69% used Bash/Shell (all shells) as their language/technology in the past year, based on 278 respondents.",tech_by_role,278
+"Among Cybersecurity or InfoSec professional respondents, 61% used JavaScript as their language/technology in the past year, based on 278 respondents.",tech_by_role,278
+"Among Data or business analyst respondents, 76% used SQL as their language/technology in the past year, based on 233 respondents.",tech_by_role,233
+"Among Data or business analyst respondents, 76% used Python as their language/technology in the past year, based on 233 respondents.",tech_by_role,233
+"Among Data or business analyst respondents, 54% used HTML/CSS as their language/technology in the past year, based on 233 respondents.",tech_by_role,233
+"Among QA or test developer respondents, 65% used Python as their language/technology in the past year, based on 249 respondents.",tech_by_role,249
+"Among QA or test developer respondents, 63% used JavaScript as their language/technology in the past year, based on 249 respondents.",tech_by_role,249
+"Among QA or test developer respondents, 52% used Bash/Shell (all shells) as their language/technology in the past year, based on 249 respondents.",tech_by_role,249
+"Among Project manager respondents, 64% used JavaScript as their language/technology in the past year, based on 204 respondents.",tech_by_role,204
+"Among Project manager respondents, 62% used SQL as their language/technology in the past year, based on 204 respondents.",tech_by_role,204
+"Among Project manager respondents, 61% used HTML/CSS as their language/technology in the past year, based on 204 respondents.",tech_by_role,204
+"Among Applied scientist respondents, 83% used Python as their language/technology in the past year, based on 225 respondents.",tech_by_role,225
+"Among Applied scientist respondents, 55% used Bash/Shell (all shells) as their language/technology in the past year, based on 225 respondents.",tech_by_role,225
+"Among Applied scientist respondents, 42% used C++ as their language/technology in the past year, based on 225 respondents.",tech_by_role,225
+"Among Support engineer or analyst respondents, 70% used Python as their language/technology in the past year, based on 173 respondents.",tech_by_role,173
+"Among Support engineer or analyst respondents, 57% used Bash/Shell (all shells) as their language/technology in the past year, based on 173 respondents.",tech_by_role,173
+"Among Support engineer or analyst respondents, 57% used SQL as their language/technology in the past year, based on 173 respondents.",tech_by_role,173
+"Among AI apps or physical AI developer respondents, 78% used Python as their language/technology in the past year, based on 146 respondents.",tech_by_role,146
+"Among AI apps or physical AI developer respondents, 61% used JavaScript as their language/technology in the past year, based on 146 respondents.",tech_by_role,146
+"Among AI apps or physical AI developer respondents, 59% used HTML/CSS as their language/technology in the past year, based on 146 respondents.",tech_by_role,146
+"Among Product manager respondents, 63% used JavaScript as their language/technology in the past year, based on 131 respondents.",tech_by_role,131
+"Among Product manager respondents, 61% used Python as their language/technology in the past year, based on 131 respondents.",tech_by_role,131
+"Among Product manager respondents, 60% used SQL as their language/technology in the past year, based on 131 respondents.",tech_by_role,131
+"Among Database administrator or engineer respondents, 89% used SQL as their language/technology in the past year, based on 123 respondents.",tech_by_role,123
+"Among Database administrator or engineer respondents, 56% used Python as their language/technology in the past year, based on 123 respondents.",tech_by_role,123
+"Among Database administrator or engineer respondents, 51% used Bash/Shell (all shells) as their language/technology in the past year, based on 123 respondents.",tech_by_role,123
+"Among UX, Research Ops or UI design professional respondents, 83% used HTML/CSS as their language/technology in the past year, based on 63 respondents.",tech_by_role,63
+"Among UX, Research Ops or UI design professional respondents, 83% used JavaScript as their language/technology in the past year, based on 63 respondents.",tech_by_role,63
+"Among UX, Research Ops or UI design professional respondents, 43% used TypeScript as their language/technology in the past year, based on 63 respondents.",tech_by_role,63
+"Among full-stack developer respondents, 58% used PostgreSQL as their database in the past year, based on 8585 respondents.",tech_by_role,8585
+"Among full-stack developer respondents, 44% used MySQL as their database in the past year, based on 8585 respondents.",tech_by_role,8585
+"Among full-stack developer respondents, 37% used SQLite as their database in the past year, based on 8585 respondents.",tech_by_role,8585
+"Among back-end developer respondents, 64% used PostgreSQL as their database in the past year, based on 4345 respondents.",tech_by_role,4345
+"Among back-end developer respondents, 41% used Redis as their database in the past year, based on 4345 respondents.",tech_by_role,4345
+"Among back-end developer respondents, 38% used MySQL as their database in the past year, based on 4345 respondents.",tech_by_role,4345
+"Among Student respondents, 52% used MySQL as their database in the past year, based on 1213 respondents.",tech_by_role,1213
+"Among Student respondents, 47% used SQLite as their database in the past year, based on 1213 respondents.",tech_by_role,1213
+"Among Student respondents, 45% used PostgreSQL as their database in the past year, based on 1213 respondents.",tech_by_role,1213
+"Among Architect, software or solutions respondents, 62% used PostgreSQL as their database in the past year, based on 1834 respondents.",tech_by_role,1834
+"Among Architect, software or solutions respondents, 41% used Microsoft SQL Server as their database in the past year, based on 1834 respondents.",tech_by_role,1834
+"Among Architect, software or solutions respondents, 38% used SQLite as their database in the past year, based on 1834 respondents.",tech_by_role,1834
+"Among front-end developer respondents, 48% used PostgreSQL as their database in the past year, based on 807 respondents.",tech_by_role,807
+"Among front-end developer respondents, 45% used MySQL as their database in the past year, based on 807 respondents.",tech_by_role,807
+"Among front-end developer respondents, 34% used MongoDB as their database in the past year, based on 807 respondents.",tech_by_role,807
+"Among desktop or enterprise applications developer respondents, 52% used Microsoft SQL Server as their database in the past year, based on 1088 respondents.",tech_by_role,1088
+"Among desktop or enterprise applications developer respondents, 44% used SQLite as their database in the past year, based on 1088 respondents.",tech_by_role,1088
+"Among desktop or enterprise applications developer respondents, 42% used PostgreSQL as their database in the past year, based on 1088 respondents.",tech_by_role,1088
+"Among mobile developer respondents, 64% used SQLite as their database in the past year, based on 547 respondents.",tech_by_role,547
+"Among mobile developer respondents, 35% used PostgreSQL as their database in the past year, based on 547 respondents.",tech_by_role,547
+"Among mobile developer respondents, 34% used MySQL as their database in the past year, based on 547 respondents.",tech_by_role,547
+"Among embedded applications or devices developer respondents, 54% used SQLite as their database in the past year, based on 353 respondents.",tech_by_role,353
+"Among embedded applications or devices developer respondents, 46% used PostgreSQL as their database in the past year, based on 353 respondents.",tech_by_role,353
+"Among embedded applications or devices developer respondents, 34% used MySQL as their database in the past year, based on 353 respondents.",tech_by_role,353
+"Among Academic researcher respondents, 61% used SQLite as their database in the past year, based on 389 respondents.",tech_by_role,389
+"Among Academic researcher respondents, 50% used PostgreSQL as their database in the past year, based on 389 respondents.",tech_by_role,389
+"Among Academic researcher respondents, 44% used MySQL as their database in the past year, based on 389 respondents.",tech_by_role,389
+"Among Engineering manager respondents, 64% used PostgreSQL as their database in the past year, based on 685 respondents.",tech_by_role,685
+"Among Engineering manager respondents, 42% used Redis as their database in the past year, based on 685 respondents.",tech_by_role,685
+"Among Engineering manager respondents, 39% used MySQL as their database in the past year, based on 685 respondents.",tech_by_role,685
+"Among DevOps engineer or professional respondents, 71% used PostgreSQL as their database in the past year, based on 706 respondents.",tech_by_role,706
+"Among DevOps engineer or professional respondents, 44% used Redis as their database in the past year, based on 706 respondents.",tech_by_role,706
+"Among DevOps engineer or professional respondents, 43% used MySQL as their database in the past year, based on 706 respondents.",tech_by_role,706
+"Among Data engineer respondents, 63% used PostgreSQL as their database in the past year, based on 539 respondents.",tech_by_role,539
+"Among Data engineer respondents, 40% used Microsoft SQL Server as their database in the past year, based on 539 respondents.",tech_by_role,539
+"Among Data engineer respondents, 33% used MySQL as their database in the past year, based on 539 respondents.",tech_by_role,539
+"Among AI/ML engineer respondents, 63% used PostgreSQL as their database in the past year, based on 363 respondents.",tech_by_role,363
+"Among AI/ML engineer respondents, 41% used SQLite as their database in the past year, based on 363 respondents.",tech_by_role,363
+"Among AI/ML engineer respondents, 40% used MySQL as their database in the past year, based on 363 respondents.",tech_by_role,363
+"Among Data scientist respondents, 52% used PostgreSQL as their database in the past year, based on 361 respondents.",tech_by_role,361
+"Among Data scientist respondents, 38% used SQLite as their database in the past year, based on 361 respondents.",tech_by_role,361
+"Among Data scientist respondents, 35% used MySQL as their database in the past year, based on 361 respondents.",tech_by_role,361
+"Among Senior executive (C-suite, VP, etc.) respondents, 65% used PostgreSQL as their database in the past year, based on 376 respondents.",tech_by_role,376
+"Among Senior executive (C-suite, VP, etc.) respondents, 41% used MySQL as their database in the past year, based on 376 respondents.",tech_by_role,376
+"Among Senior executive (C-suite, VP, etc.) respondents, 41% used Redis as their database in the past year, based on 376 respondents.",tech_by_role,376
+"Among System administrator respondents, 55% used PostgreSQL as their database in the past year, based on 288 respondents.",tech_by_role,288
+"Among System administrator respondents, 50% used MySQL as their database in the past year, based on 288 respondents.",tech_by_role,288
+"Among System administrator respondents, 49% used MariaDB as their database in the past year, based on 288 respondents.",tech_by_role,288
+"Among game or graphics developer respondents, 46% used SQLite as their database in the past year, based on 138 respondents.",tech_by_role,138
+"Among game or graphics developer respondents, 40% used PostgreSQL as their database in the past year, based on 138 respondents.",tech_by_role,138
+"Among game or graphics developer respondents, 36% used MySQL as their database in the past year, based on 138 respondents.",tech_by_role,138
+"Among Cloud infrastructure engineer respondents, 75% used PostgreSQL as their database in the past year, based on 251 respondents.",tech_by_role,251
+"Among Cloud infrastructure engineer respondents, 45% used Redis as their database in the past year, based on 251 respondents.",tech_by_role,251
+"Among Cloud infrastructure engineer respondents, 40% used MySQL as their database in the past year, based on 251 respondents.",tech_by_role,251
+"Among Founder, technology or otherwise respondents, 72% used PostgreSQL as their database in the past year, based on 286 respondents.",tech_by_role,286
+"Among Founder, technology or otherwise respondents, 45% used SQLite as their database in the past year, based on 286 respondents.",tech_by_role,286
+"Among Founder, technology or otherwise respondents, 39% used Redis as their database in the past year, based on 286 respondents.",tech_by_role,286
+"Among Cybersecurity or InfoSec professional respondents, 63% used PostgreSQL as their database in the past year, based on 211 respondents.",tech_by_role,211
+"Among Cybersecurity or InfoSec professional respondents, 59% used SQLite as their database in the past year, based on 211 respondents.",tech_by_role,211
+"Among Cybersecurity or InfoSec professional respondents, 55% used MySQL as their database in the past year, based on 211 respondents.",tech_by_role,211
+"Among Data or business analyst respondents, 55% used Microsoft SQL Server as their database in the past year, based on 209 respondents.",tech_by_role,209
+"Among Data or business analyst respondents, 39% used MySQL as their database in the past year, based on 209 respondents.",tech_by_role,209
+"Among Data or business analyst respondents, 38% used PostgreSQL as their database in the past year, based on 209 respondents.",tech_by_role,209
+"Among QA or test developer respondents, 51% used PostgreSQL as their database in the past year, based on 167 respondents.",tech_by_role,167
+"Among QA or test developer respondents, 44% used Microsoft SQL Server as their database in the past year, based on 167 respondents.",tech_by_role,167
+"Among QA or test developer respondents, 43% used MySQL as their database in the past year, based on 167 respondents.",tech_by_role,167
+"Among Project manager respondents, 50% used PostgreSQL as their database in the past year, based on 169 respondents.",tech_by_role,169
+"Among Project manager respondents, 44% used MySQL as their database in the past year, based on 169 respondents.",tech_by_role,169
+"Among Project manager respondents, 42% used Microsoft SQL Server as their database in the past year, based on 169 respondents.",tech_by_role,169
+"Among Applied scientist respondents, 59% used PostgreSQL as their database in the past year, based on 116 respondents.",tech_by_role,116
+"Among Applied scientist respondents, 49% used SQLite as their database in the past year, based on 116 respondents.",tech_by_role,116
+"Among Applied scientist respondents, 35% used MySQL as their database in the past year, based on 116 respondents.",tech_by_role,116
+"Among Support engineer or analyst respondents, 50% used PostgreSQL as their database in the past year, based on 135 respondents.",tech_by_role,135
+"Among Support engineer or analyst respondents, 47% used MySQL as their database in the past year, based on 135 respondents.",tech_by_role,135
+"Among Support engineer or analyst respondents, 37% used SQLite as their database in the past year, based on 135 respondents.",tech_by_role,135
+"Among AI apps or physical AI developer respondents, 64% used PostgreSQL as their database in the past year, based on 120 respondents.",tech_by_role,120
+"Among AI apps or physical AI developer respondents, 48% used SQLite as their database in the past year, based on 120 respondents.",tech_by_role,120
+"Among AI apps or physical AI developer respondents, 44% used MySQL as their database in the past year, based on 120 respondents.",tech_by_role,120
+"Among Product manager respondents, 42% used PostgreSQL as their database in the past year, based on 108 respondents.",tech_by_role,108
+"Among Product manager respondents, 36% used SQLite as their database in the past year, based on 108 respondents.",tech_by_role,108
+"Among Product manager respondents, 32% used MySQL as their database in the past year, based on 108 respondents.",tech_by_role,108
+"Among Database administrator or engineer respondents, 56% used Microsoft SQL Server as their database in the past year, based on 126 respondents.",tech_by_role,126
+"Among Database administrator or engineer respondents, 43% used PostgreSQL as their database in the past year, based on 126 respondents.",tech_by_role,126
+"Among Database administrator or engineer respondents, 39% used MySQL as their database in the past year, based on 126 respondents.",tech_by_role,126
+"Among full-stack developer respondents, 74% used npm as their cloud/platform tool in the past year, based on 7580 respondents.",tech_by_role,7580
+"Among full-stack developer respondents, 74% used Docker as their cloud/platform tool in the past year, based on 7580 respondents.",tech_by_role,7580
+"Among full-stack developer respondents, 45% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 7580 respondents.",tech_by_role,7580
+"Among back-end developer respondents, 80% used Docker as their cloud/platform tool in the past year, based on 4123 respondents.",tech_by_role,4123
+"Among back-end developer respondents, 52% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 4123 respondents.",tech_by_role,4123
+"Among back-end developer respondents, 48% used npm as their cloud/platform tool in the past year, based on 4123 respondents.",tech_by_role,4123
+"Among Student respondents, 58% used Docker as their cloud/platform tool in the past year, based on 1227 respondents.",tech_by_role,1227
+"Among Student respondents, 58% used npm as their cloud/platform tool in the past year, based on 1227 respondents.",tech_by_role,1227
+"Among Student respondents, 57% used Pip as their cloud/platform tool in the past year, based on 1227 respondents.",tech_by_role,1227
+"Among Architect, software or solutions respondents, 77% used Docker as their cloud/platform tool in the past year, based on 1760 respondents.",tech_by_role,1760
+"Among Architect, software or solutions respondents, 59% used npm as their cloud/platform tool in the past year, based on 1760 respondents.",tech_by_role,1760
+"Among Architect, software or solutions respondents, 48% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 1760 respondents.",tech_by_role,1760
+"Among front-end developer respondents, 80% used npm as their cloud/platform tool in the past year, based on 938 respondents.",tech_by_role,938
+"Among front-end developer respondents, 59% used Docker as their cloud/platform tool in the past year, based on 938 respondents.",tech_by_role,938
+"Among front-end developer respondents, 59% used Vite as their cloud/platform tool in the past year, based on 938 respondents.",tech_by_role,938
+"Among desktop or enterprise applications developer respondents, 57% used Docker as their cloud/platform tool in the past year, based on 914 respondents.",tech_by_role,914
+"Among desktop or enterprise applications developer respondents, 40% used npm as their cloud/platform tool in the past year, based on 914 respondents.",tech_by_role,914
+"Among desktop or enterprise applications developer respondents, 37% used NuGet as their cloud/platform tool in the past year, based on 914 respondents.",tech_by_role,914
+"Among mobile developer respondents, 65% used Firebase as their cloud/platform tool in the past year, based on 557 respondents.",tech_by_role,557
+"Among mobile developer respondents, 51% used Homebrew as their cloud/platform tool in the past year, based on 557 respondents.",tech_by_role,557
+"Among mobile developer respondents, 49% used Gradle as their cloud/platform tool in the past year, based on 557 respondents.",tech_by_role,557
+"Among embedded applications or devices developer respondents, 73% used Docker as their cloud/platform tool in the past year, based on 547 respondents.",tech_by_role,547
+"Among embedded applications or devices developer respondents, 60% used Pip as their cloud/platform tool in the past year, based on 547 respondents.",tech_by_role,547
+"Among embedded applications or devices developer respondents, 59% used Make as their cloud/platform tool in the past year, based on 547 respondents.",tech_by_role,547
+"Among Academic researcher respondents, 70% used Pip as their cloud/platform tool in the past year, based on 456 respondents.",tech_by_role,456
+"Among Academic researcher respondents, 68% used Docker as their cloud/platform tool in the past year, based on 456 respondents.",tech_by_role,456
+"Among Academic researcher respondents, 44% used Make as their cloud/platform tool in the past year, based on 456 respondents.",tech_by_role,456
+"Among Engineering manager respondents, 76% used Docker as their cloud/platform tool in the past year, based on 685 respondents.",tech_by_role,685
+"Among Engineering manager respondents, 61% used npm as their cloud/platform tool in the past year, based on 685 respondents.",tech_by_role,685
+"Among Engineering manager respondents, 60% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 685 respondents.",tech_by_role,685
+"Among DevOps engineer or professional respondents, 90% used Docker as their cloud/platform tool in the past year, based on 776 respondents.",tech_by_role,776
+"Among DevOps engineer or professional respondents, 63% used Kubernetes as their cloud/platform tool in the past year, based on 776 respondents.",tech_by_role,776
+"Among DevOps engineer or professional respondents, 60% used Pip as their cloud/platform tool in the past year, based on 776 respondents.",tech_by_role,776
+"Among Data engineer respondents, 70% used Docker as their cloud/platform tool in the past year, based on 496 respondents.",tech_by_role,496
+"Among Data engineer respondents, 62% used Pip as their cloud/platform tool in the past year, based on 496 respondents.",tech_by_role,496
+"Among Data engineer respondents, 55% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 496 respondents.",tech_by_role,496
+"Among AI/ML engineer respondents, 81% used Docker as their cloud/platform tool in the past year, based on 382 respondents.",tech_by_role,382
+"Among AI/ML engineer respondents, 75% used Pip as their cloud/platform tool in the past year, based on 382 respondents.",tech_by_role,382
+"Among AI/ML engineer respondents, 53% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 382 respondents.",tech_by_role,382
+"Among Data scientist respondents, 64% used Docker as their cloud/platform tool in the past year, based on 327 respondents.",tech_by_role,327
+"Among Data scientist respondents, 62% used Pip as their cloud/platform tool in the past year, based on 327 respondents.",tech_by_role,327
+"Among Data scientist respondents, 45% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 327 respondents.",tech_by_role,327
+"Among Senior executive (C-suite, VP, etc.) respondents, 77% used Docker as their cloud/platform tool in the past year, based on 351 respondents.",tech_by_role,351
+"Among Senior executive (C-suite, VP, etc.) respondents, 61% used npm as their cloud/platform tool in the past year, based on 351 respondents.",tech_by_role,351
+"Among Senior executive (C-suite, VP, etc.) respondents, 61% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 351 respondents.",tech_by_role,351
+"Among System administrator respondents, 68% used Docker as their cloud/platform tool in the past year, based on 249 respondents.",tech_by_role,249
+"Among System administrator respondents, 55% used Pip as their cloud/platform tool in the past year, based on 249 respondents.",tech_by_role,249
+"Among System administrator respondents, 41% used APT as their cloud/platform tool in the past year, based on 249 respondents.",tech_by_role,249
+"Among game or graphics developer respondents, 52% used Docker as their cloud/platform tool in the past year, based on 159 respondents.",tech_by_role,159
+"Among game or graphics developer respondents, 42% used npm as their cloud/platform tool in the past year, based on 159 respondents.",tech_by_role,159
+"Among game or graphics developer respondents, 34% used Pip as their cloud/platform tool in the past year, based on 159 respondents.",tech_by_role,159
+"Among Cloud infrastructure engineer respondents, 85% used Docker as their cloud/platform tool in the past year, based on 293 respondents.",tech_by_role,293
+"Among Cloud infrastructure engineer respondents, 68% used Kubernetes as their cloud/platform tool in the past year, based on 293 respondents.",tech_by_role,293
+"Among Cloud infrastructure engineer respondents, 64% used Terraform as their cloud/platform tool in the past year, based on 293 respondents.",tech_by_role,293
+"Among Founder, technology or otherwise respondents, 74% used Docker as their cloud/platform tool in the past year, based on 275 respondents.",tech_by_role,275
+"Among Founder, technology or otherwise respondents, 66% used npm as their cloud/platform tool in the past year, based on 275 respondents.",tech_by_role,275
+"Among Founder, technology or otherwise respondents, 56% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 275 respondents.",tech_by_role,275
+"Among Cybersecurity or InfoSec professional respondents, 80% used Docker as their cloud/platform tool in the past year, based on 232 respondents.",tech_by_role,232
+"Among Cybersecurity or InfoSec professional respondents, 64% used Pip as their cloud/platform tool in the past year, based on 232 respondents.",tech_by_role,232
+"Among Cybersecurity or InfoSec professional respondents, 55% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 232 respondents.",tech_by_role,232
+"Among Data or business analyst respondents, 40% used Docker as their cloud/platform tool in the past year, based on 127 respondents.",tech_by_role,127
+"Among Data or business analyst respondents, 39% used Pip as their cloud/platform tool in the past year, based on 127 respondents.",tech_by_role,127
+"Among Data or business analyst respondents, 39% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 127 respondents.",tech_by_role,127
+"Among QA or test developer respondents, 70% used Docker as their cloud/platform tool in the past year, based on 188 respondents.",tech_by_role,188
+"Among QA or test developer respondents, 48% used npm as their cloud/platform tool in the past year, based on 188 respondents.",tech_by_role,188
+"Among QA or test developer respondents, 46% used Pip as their cloud/platform tool in the past year, based on 188 respondents.",tech_by_role,188
+"Among Project manager respondents, 61% used Docker as their cloud/platform tool in the past year, based on 150 respondents.",tech_by_role,150
+"Among Project manager respondents, 45% used npm as their cloud/platform tool in the past year, based on 150 respondents.",tech_by_role,150
+"Among Project manager respondents, 37% used Microsoft Azure as their cloud/platform tool in the past year, based on 150 respondents.",tech_by_role,150
+"Among Applied scientist respondents, 63% used Docker as their cloud/platform tool in the past year, based on 127 respondents.",tech_by_role,127
+"Among Applied scientist respondents, 63% used Pip as their cloud/platform tool in the past year, based on 127 respondents.",tech_by_role,127
+"Among Applied scientist respondents, 38% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 127 respondents.",tech_by_role,127
+"Among Support engineer or analyst respondents, 60% used Docker as their cloud/platform tool in the past year, based on 122 respondents.",tech_by_role,122
+"Among Support engineer or analyst respondents, 46% used Pip as their cloud/platform tool in the past year, based on 122 respondents.",tech_by_role,122
+"Among Support engineer or analyst respondents, 43% used npm as their cloud/platform tool in the past year, based on 122 respondents.",tech_by_role,122
+"Among AI apps or physical AI developer respondents, 75% used Docker as their cloud/platform tool in the past year, based on 115 respondents.",tech_by_role,115
+"Among AI apps or physical AI developer respondents, 58% used Pip as their cloud/platform tool in the past year, based on 115 respondents.",tech_by_role,115
+"Among AI apps or physical AI developer respondents, 55% used npm as their cloud/platform tool in the past year, based on 115 respondents.",tech_by_role,115
+"Among Product manager respondents, 53% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 108 respondents.",tech_by_role,108
+"Among Product manager respondents, 53% used Docker as their cloud/platform tool in the past year, based on 108 respondents.",tech_by_role,108
+"Among Product manager respondents, 44% used Microsoft Azure as their cloud/platform tool in the past year, based on 108 respondents.",tech_by_role,108
+"Among Database administrator or engineer respondents, 45% used Docker as their cloud/platform tool in the past year, based on 83 respondents.",tech_by_role,83
+"Among Database administrator or engineer respondents, 42% used Amazon Web Services (AWS) as their cloud/platform tool in the past year, based on 83 respondents.",tech_by_role,83
+"Among Database administrator or engineer respondents, 40% used Microsoft Azure as their cloud/platform tool in the past year, based on 83 respondents.",tech_by_role,83
+"Among UX, Research Ops or UI design professional respondents, 68% used npm as their cloud/platform tool in the past year, based on 37 respondents.",tech_by_role,37
+"Among UX, Research Ops or UI design professional respondents, 46% used Google Cloud as their cloud/platform tool in the past year, based on 37 respondents.",tech_by_role,37
+"Among UX, Research Ops or UI design professional respondents, 43% used Docker as their cloud/platform tool in the past year, based on 37 respondents.",tech_by_role,37
+"In United States of America, 68% of developers used JavaScript in the past year, based on 6655 respondents.",language_by_country,6655
+"In United States of America, 64% of developers used HTML/CSS in the past year, based on 6655 respondents.",language_by_country,6655
+"In United States of America, 63% of developers used Python in the past year, based on 6655 respondents.",language_by_country,6655
+"In Germany, 62% of developers used JavaScript in the past year, based on 2795 respondents.",language_by_country,2795
+"In Germany, 62% of developers used HTML/CSS in the past year, based on 2795 respondents.",language_by_country,2795
+"In Germany, 60% of developers used Python in the past year, based on 2795 respondents.",language_by_country,2795
+"In India, 69% of developers used JavaScript in the past year, based on 2020 respondents.",language_by_country,2020
+"In India, 61% of developers used HTML/CSS in the past year, based on 2020 respondents.",language_by_country,2020
+"In India, 57% of developers used Python in the past year, based on 2020 respondents.",language_by_country,2020
+"In United Kingdom of Great Britain and Northern Ireland, 66% of developers used JavaScript in the past year, based on 1863 respondents.",language_by_country,1863
+"In United Kingdom of Great Britain and Northern Ireland, 62% of developers used HTML/CSS in the past year, based on 1863 respondents.",language_by_country,1863
+"In United Kingdom of Great Britain and Northern Ireland, 60% of developers used SQL in the past year, based on 1863 respondents.",language_by_country,1863
+"In France, 63% of developers used JavaScript in the past year, based on 1307 respondents.",language_by_country,1307
+"In France, 63% of developers used Python in the past year, based on 1307 respondents.",language_by_country,1307
+"In France, 62% of developers used HTML/CSS in the past year, based on 1307 respondents.",language_by_country,1307
+"In Canada, 67% of developers used JavaScript in the past year, based on 1192 respondents.",language_by_country,1192
+"In Canada, 65% of developers used HTML/CSS in the past year, based on 1192 respondents.",language_by_country,1192
+"In Canada, 59% of developers used SQL in the past year, based on 1192 respondents.",language_by_country,1192
+"In Ukraine, 64% of developers used JavaScript in the past year, based on 833 respondents.",language_by_country,833
+"In Ukraine, 57% of developers used HTML/CSS in the past year, based on 833 respondents.",language_by_country,833
+"In Ukraine, 56% of developers used SQL in the past year, based on 833 respondents.",language_by_country,833
+"In Poland, 60% of developers used JavaScript in the past year, based on 807 respondents.",language_by_country,807
+"In Poland, 58% of developers used SQL in the past year, based on 807 respondents.",language_by_country,807
+"In Poland, 57% of developers used Python in the past year, based on 807 respondents.",language_by_country,807
+"In Netherlands, 68% of developers used JavaScript in the past year, based on 791 respondents.",language_by_country,791
+"In Netherlands, 63% of developers used HTML/CSS in the past year, based on 791 respondents.",language_by_country,791
+"In Netherlands, 58% of developers used Python in the past year, based on 791 respondents.",language_by_country,791
+"In Italy, 61% of developers used JavaScript in the past year, based on 752 respondents.",language_by_country,752
+"In Italy, 59% of developers used SQL in the past year, based on 752 respondents.",language_by_country,752
+"In Italy, 58% of developers used Python in the past year, based on 752 respondents.",language_by_country,752
+"In Brazil, 70% of developers used JavaScript in the past year, based on 707 respondents.",language_by_country,707
+"In Brazil, 66% of developers used HTML/CSS in the past year, based on 707 respondents.",language_by_country,707
+"In Brazil, 63% of developers used SQL in the past year, based on 707 respondents.",language_by_country,707
+"In Australia, 68% of developers used JavaScript in the past year, based on 743 respondents.",language_by_country,743
+"In Australia, 64% of developers used HTML/CSS in the past year, based on 743 respondents.",language_by_country,743
+"In Australia, 63% of developers used SQL in the past year, based on 743 respondents.",language_by_country,743
+"In Spain, 64% of developers used JavaScript in the past year, based on 662 respondents.",language_by_country,662
+"In Spain, 60% of developers used Python in the past year, based on 662 respondents.",language_by_country,662
+"In Spain, 59% of developers used SQL in the past year, based on 662 respondents.",language_by_country,662
+"In Sweden, 61% of developers used JavaScript in the past year, based on 565 respondents.",language_by_country,565
+"In Sweden, 59% of developers used HTML/CSS in the past year, based on 565 respondents.",language_by_country,565
+"In Sweden, 55% of developers used Bash/Shell (all shells) in the past year, based on 565 respondents.",language_by_country,565
+"In Switzerland, 63% of developers used Python in the past year, based on 514 respondents.",language_by_country,514
+"In Switzerland, 63% of developers used JavaScript in the past year, based on 514 respondents.",language_by_country,514
+"In Switzerland, 61% of developers used HTML/CSS in the past year, based on 514 respondents.",language_by_country,514
+"Among developers working 'Remote', the average job satisfaction is 7.3 out of 10, based on 7908 respondents.",satisfaction_by_remote,7908
+"Among developers working 'Hybrid (some in-person, leans heavy to flexibility)', the average job satisfaction is 7.2 out of 10, based on 4046 respondents.",satisfaction_by_remote,4046
+"Among developers working 'In-person', the average job satisfaction is 7.0 out of 10, based on 3496 respondents.",satisfaction_by_remote,3496
+"Among developers working 'Hybrid (some remote, leans heavy to in-person)', the average job satisfaction is 7.1 out of 10, based on 4499 respondents.",satisfaction_by_remote,4499
+"Among developers working 'Your choice (very flexible, you can come in when you want or just as needed)', the average job satisfaction is 7.4 out of 10, based on 2848 respondents.",satisfaction_by_remote,2848
+"Among full-stack developer respondents, the average job satisfaction is 7.2 out of 10, based on 9385 respondents.",satisfaction_by_role,9385
+"Among back-end developer respondents, the average job satisfaction is 7.0 out of 10, based on 4937 respondents.",satisfaction_by_role,4937
+"Among Student respondents, the average job satisfaction is 6.8 out of 10, based on 355 respondents.",satisfaction_by_role,355
+"Among Architect, software or solutions respondents, the average job satisfaction is 7.5 out of 10, based on 1865 respondents.",satisfaction_by_role,1865
+"Among front-end developer respondents, the average job satisfaction is 7.0 out of 10, based on 1418 respondents.",satisfaction_by_role,1418
+"Among desktop or enterprise applications developer respondents, the average job satisfaction is 7.2 out of 10, based on 1454 respondents.",satisfaction_by_role,1454
+"Among mobile developer respondents, the average job satisfaction is 7.2 out of 10, based on 1029 respondents.",satisfaction_by_role,1029
+"Among embedded applications or devices developer respondents, the average job satisfaction is 7.1 out of 10, based on 962 respondents.",satisfaction_by_role,962
+"Among Academic researcher respondents, the average job satisfaction is 7.4 out of 10, based on 285 respondents.",satisfaction_by_role,285
+"Among Engineering manager respondents, the average job satisfaction is 7.4 out of 10, based on 595 respondents.",satisfaction_by_role,595
+"Among DevOps engineer or professional respondents, the average job satisfaction is 7.3 out of 10, based on 604 respondents.",satisfaction_by_role,604
+"Among Data engineer respondents, the average job satisfaction is 7.1 out of 10, based on 514 respondents.",satisfaction_by_role,514
+"Among AI/ML engineer respondents, the average job satisfaction is 7.3 out of 10, based on 433 respondents.",satisfaction_by_role,433
+"Among Data scientist respondents, the average job satisfaction is 7.3 out of 10, based on 285 respondents.",satisfaction_by_role,285
+"Among Senior executive (C-suite, VP, etc.) respondents, the average job satisfaction is 8.2 out of 10, based on 273 respondents.",satisfaction_by_role,273
+"Among System administrator respondents, the average job satisfaction is 6.9 out of 10, based on 56 respondents.",satisfaction_by_role,56
+"Among game or graphics developer respondents, the average job satisfaction is 7.4 out of 10, based on 301 respondents.",satisfaction_by_role,301
+"Among Cloud infrastructure engineer respondents, the average job satisfaction is 7.1 out of 10, based on 234 respondents.",satisfaction_by_role,234
+"Among Founder, technology or otherwise respondents, the average job satisfaction is 8.4 out of 10, based on 235 respondents.",satisfaction_by_role,235
+"Among Cybersecurity or InfoSec professional respondents, the average job satisfaction is 7.6 out of 10, based on 113 respondents.",satisfaction_by_role,113
+"Among Data or business analyst respondents, the average job satisfaction is 6.9 out of 10, based on 77 respondents.",satisfaction_by_role,77
+"Among QA or test developer respondents, the average job satisfaction is 6.7 out of 10, based on 164 respondents.",satisfaction_by_role,164
+"Among Project manager respondents, the average job satisfaction is 7.3 out of 10, based on 80 respondents.",satisfaction_by_role,80
+"Among Applied scientist respondents, the average job satisfaction is 7.6 out of 10, based on 109 respondents.",satisfaction_by_role,109
+"Among Support engineer or analyst respondents, the average job satisfaction is 6.4 out of 10, based on 51 respondents.",satisfaction_by_role,51
+"Among AI apps or physical AI developer respondents, the average job satisfaction is 7.3 out of 10, based on 148 respondents.",satisfaction_by_role,148
+"Among Product manager respondents, the average job satisfaction is 7.9 out of 10, based on 38 respondents.",satisfaction_by_role,38
+"Among Database administrator or engineer respondents, the average job satisfaction is 7.2 out of 10, based on 75 respondents.",satisfaction_by_role,75
+"Among developers whose highest education is 'Master’s degree (M.A., M.S., M.Eng., MBA, etc.)', the average job satisfaction is 7.3 out of 10, based on 7665 respondents.",satisfaction_by_education,7665
+"Among developers whose highest education is 'Associate degree (A.A., A.S., etc.)', the average job satisfaction is 7.1 out of 10, based on 821 respondents.",satisfaction_by_education,821
+"Among developers whose highest education is 'Bachelor’s degree (B.A., B.S., B.Eng., etc.)', the average job satisfaction is 7.1 out of 10, based on 12106 respondents.",satisfaction_by_education,12106
+"Among developers whose highest education is 'Some college/university study without earning a degree', the average job satisfaction is 7.2 out of 10, based on 3124 respondents.",satisfaction_by_education,3124
+"Among developers whose highest education is 'Professional degree (JD, MD, Ph.D, Ed.D, etc.)', the average job satisfaction is 7.4 out of 10, based on 1212 respondents.",satisfaction_by_education,1212
+"Among developers whose highest education is 'Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)', the average job satisfaction is 7.1 out of 10, based on 1304 respondents.",satisfaction_by_education,1304
+"Among developers whose highest education is 'Primary/elementary school', the average job satisfaction is 7.5 out of 10, based on 146 respondents.",satisfaction_by_education,146
+"Among people manager respondents, the average job satisfaction is 7.5 out of 10, based on 2989 respondents.",satisfaction_by_ic_or_manager,2989
+"Among individual contributor respondents, the average job satisfaction is 7.2 out of 10, based on 19509 respondents.",satisfaction_by_ic_or_manager,19509
 "Among developers with 0-2 years of experience, 60% have a favorable view of AI tools, based on 3056 respondents.",ai_sentiment_by_experience,3056
 "Among developers with 3-5 years of experience, 62% have a favorable view of AI tools, based on 4894 respondents.",ai_sentiment_by_experience,4894
 "Among developers with 6-10 years of experience, 62% have a favorable view of AI tools, based on 6834 respondents.",ai_sentiment_by_experience,6834
 "Among developers with 11-20 years of experience, 61% have a favorable view of AI tools, based on 8942 respondents.",ai_sentiment_by_experience,8942
 "Among developers with 21-50 years of experience, 57% have a favorable view of AI tools, based on 7090 respondents.",ai_sentiment_by_experience,7090
-"15% of Developer, full-stacks see AI as a threat to their current job, based on 10209 respondents.",ai_threat_by_role,10209
-"15% of Developer, back-ends see AI as a threat to their current job, based on 5324 respondents.",ai_threat_by_role,5324
-"16% of Students see AI as a threat to their current job, based on 2520 respondents.",ai_threat_by_role,2520
-"14% of Architect, software or solutionss see AI as a threat to their current job, based on 2304 respondents.",ai_threat_by_role,2304
-"19% of Developer, front-ends see AI as a threat to their current job, based on 1618 respondents.",ai_threat_by_role,1618
-"12% of Developer, desktop or enterprise applicationss see AI as a threat to their current job, based on 1617 respondents.",ai_threat_by_role,1617
-"21% of Developer, mobiles see AI as a threat to their current job, based on 1148 respondents.",ai_threat_by_role,1148
-"8% of Developer, embedded applications or devicess see AI as a threat to their current job, based on 1072 respondents.",ai_threat_by_role,1072
-"14% of Academic researchers see AI as a threat to their current job, based on 947 respondents.",ai_threat_by_role,947
-"15% of Engineering managers see AI as a threat to their current job, based on 896 respondents.",ai_threat_by_role,896
-"11% of DevOps engineer or professionals see AI as a threat to their current job, based on 915 respondents.",ai_threat_by_role,915
-"15% of Data engineers see AI as a threat to their current job, based on 652 respondents.",ai_threat_by_role,652
-"19% of AI/ML engineers see AI as a threat to their current job, based on 554 respondents.",ai_threat_by_role,554
-"14% of Data scientists see AI as a threat to their current job, based on 492 respondents.",ai_threat_by_role,492
-"9% of Senior executive (C-suite, VP, etc.)s see AI as a threat to their current job, based on 449 respondents.",ai_threat_by_role,449
-"13% of System administrators see AI as a threat to their current job, based on 409 respondents.",ai_threat_by_role,409
-"12% of Developer, game or graphicss see AI as a threat to their current job, based on 374 respondents.",ai_threat_by_role,374
-"14% of Cloud infrastructure engineers see AI as a threat to their current job, based on 353 respondents.",ai_threat_by_role,353
-"9% of Founder, technology or otherwises see AI as a threat to their current job, based on 359 respondents.",ai_threat_by_role,359
-"16% of Cybersecurity or InfoSec professionals see AI as a threat to their current job, based on 311 respondents.",ai_threat_by_role,311
-"24% of Data or business analysts see AI as a threat to their current job, based on 287 respondents.",ai_threat_by_role,287
-"16% of Developer, QA or tests see AI as a threat to their current job, based on 295 respondents.",ai_threat_by_role,295
-"15% of Project managers see AI as a threat to their current job, based on 257 respondents.",ai_threat_by_role,257
-"12% of Applied scientists see AI as a threat to their current job, based on 252 respondents.",ai_threat_by_role,252
-"21% of Support engineer or analysts see AI as a threat to their current job, based on 215 respondents.",ai_threat_by_role,215
-"21% of Developer, AI apps or physical AIs see AI as a threat to their current job, based on 189 respondents.",ai_threat_by_role,189
-"16% of Product managers see AI as a threat to their current job, based on 169 respondents.",ai_threat_by_role,169
-"14% of Database administrator or engineers see AI as a threat to their current job, based on 147 respondents.",ai_threat_by_role,147
-"29% of UX, Research Ops or UI design professionals see AI as a threat to their current job, based on 97 respondents.",ai_threat_by_role,97
+"Among full-stack developer respondents, 15% see AI as a threat to their current job, based on 10209 respondents.",ai_threat_by_role,10209
+"Among back-end developer respondents, 15% see AI as a threat to their current job, based on 5324 respondents.",ai_threat_by_role,5324
+"Among Student respondents, 16% see AI as a threat to their current job, based on 2520 respondents.",ai_threat_by_role,2520
+"Among Architect, software or solutions respondents, 14% see AI as a threat to their current job, based on 2304 respondents.",ai_threat_by_role,2304
+"Among front-end developer respondents, 19% see AI as a threat to their current job, based on 1618 respondents.",ai_threat_by_role,1618
+"Among desktop or enterprise applications developer respondents, 12% see AI as a threat to their current job, based on 1617 respondents.",ai_threat_by_role,1617
+"Among mobile developer respondents, 21% see AI as a threat to their current job, based on 1148 respondents.",ai_threat_by_role,1148
+"Among embedded applications or devices developer respondents, 8% see AI as a threat to their current job, based on 1072 respondents.",ai_threat_by_role,1072
+"Among Academic researcher respondents, 14% see AI as a threat to their current job, based on 947 respondents.",ai_threat_by_role,947
+"Among Engineering manager respondents, 15% see AI as a threat to their current job, based on 896 respondents.",ai_threat_by_role,896
+"Among DevOps engineer or professional respondents, 11% see AI as a threat to their current job, based on 915 respondents.",ai_threat_by_role,915
+"Among Data engineer respondents, 15% see AI as a threat to their current job, based on 652 respondents.",ai_threat_by_role,652
+"Among AI/ML engineer respondents, 19% see AI as a threat to their current job, based on 554 respondents.",ai_threat_by_role,554
+"Among Data scientist respondents, 14% see AI as a threat to their current job, based on 492 respondents.",ai_threat_by_role,492
+"Among Senior executive (C-suite, VP, etc.) respondents, 9% see AI as a threat to their current job, based on 449 respondents.",ai_threat_by_role,449
+"Among System administrator respondents, 13% see AI as a threat to their current job, based on 409 respondents.",ai_threat_by_role,409
+"Among game or graphics developer respondents, 12% see AI as a threat to their current job, based on 374 respondents.",ai_threat_by_role,374
+"Among Cloud infrastructure engineer respondents, 14% see AI as a threat to their current job, based on 353 respondents.",ai_threat_by_role,353
+"Among Founder, technology or otherwise respondents, 9% see AI as a threat to their current job, based on 359 respondents.",ai_threat_by_role,359
+"Among Cybersecurity or InfoSec professional respondents, 16% see AI as a threat to their current job, based on 311 respondents.",ai_threat_by_role,311
+"Among Data or business analyst respondents, 24% see AI as a threat to their current job, based on 287 respondents.",ai_threat_by_role,287
+"Among QA or test developer respondents, 16% see AI as a threat to their current job, based on 295 respondents.",ai_threat_by_role,295
+"Among Project manager respondents, 15% see AI as a threat to their current job, based on 257 respondents.",ai_threat_by_role,257
+"Among Applied scientist respondents, 12% see AI as a threat to their current job, based on 252 respondents.",ai_threat_by_role,252
+"Among Support engineer or analyst respondents, 21% see AI as a threat to their current job, based on 215 respondents.",ai_threat_by_role,215
+"Among AI apps or physical AI developer respondents, 21% see AI as a threat to their current job, based on 189 respondents.",ai_threat_by_role,189
+"Among Product manager respondents, 16% see AI as a threat to their current job, based on 169 respondents.",ai_threat_by_role,169
+"Among Database administrator or engineer respondents, 14% see AI as a threat to their current job, based on 147 respondents.",ai_threat_by_role,147
+"Among UX, Research Ops or UI design professional respondents, 29% see AI as a threat to their current job, based on 97 respondents.",ai_threat_by_role,97
+"Among full-stack developer respondents, 33% trust the accuracy of AI tool output, based on 9448 respondents.",ai_trust_by_role,9448
+"Among back-end developer respondents, 30% trust the accuracy of AI tool output, based on 4876 respondents.",ai_trust_by_role,4876
+"Among Student respondents, 33% trust the accuracy of AI tool output, based on 2231 respondents.",ai_trust_by_role,2231
+"Among Architect, software or solutions respondents, 34% trust the accuracy of AI tool output, based on 2124 respondents.",ai_trust_by_role,2124
+"Among front-end developer respondents, 40% trust the accuracy of AI tool output, based on 1464 respondents.",ai_trust_by_role,1464
+"Among desktop or enterprise applications developer respondents, 28% trust the accuracy of AI tool output, based on 1545 respondents.",ai_trust_by_role,1545
+"Among mobile developer respondents, 41% trust the accuracy of AI tool output, based on 1021 respondents.",ai_trust_by_role,1021
+"Among embedded applications or devices developer respondents, 22% trust the accuracy of AI tool output, based on 1011 respondents.",ai_trust_by_role,1011
+"Among Academic researcher respondents, 26% trust the accuracy of AI tool output, based on 858 respondents.",ai_trust_by_role,858
+"Among Engineering manager respondents, 37% trust the accuracy of AI tool output, based on 836 respondents.",ai_trust_by_role,836
+"Among DevOps engineer or professional respondents, 30% trust the accuracy of AI tool output, based on 839 respondents.",ai_trust_by_role,839
+"Among Data engineer respondents, 39% trust the accuracy of AI tool output, based on 589 respondents.",ai_trust_by_role,589
+"Among AI/ML engineer respondents, 49% trust the accuracy of AI tool output, based on 471 respondents.",ai_trust_by_role,471
+"Among Data scientist respondents, 39% trust the accuracy of AI tool output, based on 448 respondents.",ai_trust_by_role,448
+"Among Senior executive (C-suite, VP, etc.) respondents, 37% trust the accuracy of AI tool output, based on 422 respondents.",ai_trust_by_role,422
+"Among System administrator respondents, 28% trust the accuracy of AI tool output, based on 363 respondents.",ai_trust_by_role,363
+"Among game or graphics developer respondents, 19% trust the accuracy of AI tool output, based on 348 respondents.",ai_trust_by_role,348
+"Among Cloud infrastructure engineer respondents, 23% trust the accuracy of AI tool output, based on 322 respondents.",ai_trust_by_role,322
+"Among Founder, technology or otherwise respondents, 39% trust the accuracy of AI tool output, based on 335 respondents.",ai_trust_by_role,335
+"Among Cybersecurity or InfoSec professional respondents, 31% trust the accuracy of AI tool output, based on 278 respondents.",ai_trust_by_role,278
+"Among Data or business analyst respondents, 44% trust the accuracy of AI tool output, based on 252 respondents.",ai_trust_by_role,252
+"Among QA or test developer respondents, 37% trust the accuracy of AI tool output, based on 260 respondents.",ai_trust_by_role,260
+"Among Project manager respondents, 45% trust the accuracy of AI tool output, based on 226 respondents.",ai_trust_by_role,226
+"Among Applied scientist respondents, 19% trust the accuracy of AI tool output, based on 234 respondents.",ai_trust_by_role,234
+"Among Support engineer or analyst respondents, 31% trust the accuracy of AI tool output, based on 189 respondents.",ai_trust_by_role,189
+"Among AI apps or physical AI developer respondents, 51% trust the accuracy of AI tool output, based on 156 respondents.",ai_trust_by_role,156
+"Among Product manager respondents, 48% trust the accuracy of AI tool output, based on 151 respondents.",ai_trust_by_role,151
+"Among Database administrator or engineer respondents, 31% trust the accuracy of AI tool output, based on 134 respondents.",ai_trust_by_role,134
+"Among UX, Research Ops or UI design professional respondents, 42% trust the accuracy of AI tool output, based on 71 respondents.",ai_trust_by_role,71
+"Among developers with 0-2 years of experience, 33% rate AI tools as good or better at handling complex tasks, based on 3034 respondents.",ai_complexity_by_experience,3034
+"Among developers with 3-5 years of experience, 32% rate AI tools as good or better at handling complex tasks, based on 4871 respondents.",ai_complexity_by_experience,4871
+"Among developers with 6-10 years of experience, 30% rate AI tools as good or better at handling complex tasks, based on 6794 respondents.",ai_complexity_by_experience,6794
+"Among developers with 11-20 years of experience, 28% rate AI tools as good or better at handling complex tasks, based on 8903 respondents.",ai_complexity_by_experience,8903
+"Among developers with 21-50 years of experience, 27% rate AI tools as good or better at handling complex tasks, based on 7061 respondents.",ai_complexity_by_experience,7061
+"Among full-stack developer respondents, 32% currently use AI agents in their work, based on 9113 respondents.",ai_agent_usage_by_role,9113
+"Among back-end developer respondents, 31% currently use AI agents in their work, based on 4687 respondents.",ai_agent_usage_by_role,4687
+"Among Student respondents, 25% currently use AI agents in their work, based on 2096 respondents.",ai_agent_usage_by_role,2096
+"Among Architect, software or solutions respondents, 38% currently use AI agents in their work, based on 2037 respondents.",ai_agent_usage_by_role,2037
+"Among front-end developer respondents, 36% currently use AI agents in their work, based on 1387 respondents.",ai_agent_usage_by_role,1387
+"Among desktop or enterprise applications developer respondents, 21% currently use AI agents in their work, based on 1492 respondents.",ai_agent_usage_by_role,1492
+"Among mobile developer respondents, 37% currently use AI agents in their work, based on 952 respondents.",ai_agent_usage_by_role,952
+"Among embedded applications or devices developer respondents, 20% currently use AI agents in their work, based on 984 respondents.",ai_agent_usage_by_role,984
+"Among Academic researcher respondents, 26% currently use AI agents in their work, based on 833 respondents.",ai_agent_usage_by_role,833
+"Among Engineering manager respondents, 40% currently use AI agents in their work, based on 806 respondents.",ai_agent_usage_by_role,806
+"Among DevOps engineer or professional respondents, 28% currently use AI agents in their work, based on 804 respondents.",ai_agent_usage_by_role,804
+"Among Data engineer respondents, 30% currently use AI agents in their work, based on 560 respondents.",ai_agent_usage_by_role,560
+"Among AI/ML engineer respondents, 50% currently use AI agents in their work, based on 445 respondents.",ai_agent_usage_by_role,445
+"Among Data scientist respondents, 31% currently use AI agents in their work, based on 429 respondents.",ai_agent_usage_by_role,429
+"Among Senior executive (C-suite, VP, etc.) respondents, 45% currently use AI agents in their work, based on 412 respondents.",ai_agent_usage_by_role,412
+"Among System administrator respondents, 22% currently use AI agents in their work, based on 348 respondents.",ai_agent_usage_by_role,348
+"Among game or graphics developer respondents, 15% currently use AI agents in their work, based on 337 respondents.",ai_agent_usage_by_role,337
+"Among Cloud infrastructure engineer respondents, 27% currently use AI agents in their work, based on 306 respondents.",ai_agent_usage_by_role,306
+"Among Founder, technology or otherwise respondents, 46% currently use AI agents in their work, based on 325 respondents.",ai_agent_usage_by_role,325
+"Among Cybersecurity or InfoSec professional respondents, 30% currently use AI agents in their work, based on 271 respondents.",ai_agent_usage_by_role,271
+"Among Data or business analyst respondents, 31% currently use AI agents in their work, based on 240 respondents.",ai_agent_usage_by_role,240
+"Among QA or test developer respondents, 29% currently use AI agents in their work, based on 243 respondents.",ai_agent_usage_by_role,243
+"Among Project manager respondents, 41% currently use AI agents in their work, based on 210 respondents.",ai_agent_usage_by_role,210
+"Among Applied scientist respondents, 24% currently use AI agents in their work, based on 229 respondents.",ai_agent_usage_by_role,229
+"Among Support engineer or analyst respondents, 25% currently use AI agents in their work, based on 179 respondents.",ai_agent_usage_by_role,179
+"Among AI apps or physical AI developer respondents, 56% currently use AI agents in their work, based on 151 respondents.",ai_agent_usage_by_role,151
+"Among Product manager respondents, 36% currently use AI agents in their work, based on 138 respondents.",ai_agent_usage_by_role,138
+"Among Database administrator or engineer respondents, 22% currently use AI agents in their work, based on 126 respondents.",ai_agent_usage_by_role,126
+"Among UX, Research Ops or UI design professional respondents, 38% currently use AI agents in their work, based on 65 respondents.",ai_agent_usage_by_role,65
+"Among full-stack developer respondents, 44% have considered a career or industry change in the past year, based on 10086 respondents.",career_change_by_role,10086
+"Among back-end developer respondents, 44% have considered a career or industry change in the past year, based on 5249 respondents.",career_change_by_role,5249
+"Among Student respondents, 34% have considered a career or industry change in the past year, based on 2395 respondents.",career_change_by_role,2395
+"Among Architect, software or solutions respondents, 43% have considered a career or industry change in the past year, based on 2281 respondents.",career_change_by_role,2281
+"Among front-end developer respondents, 46% have considered a career or industry change in the past year, based on 1597 respondents.",career_change_by_role,1597
+"Among desktop or enterprise applications developer respondents, 42% have considered a career or industry change in the past year, based on 1598 respondents.",career_change_by_role,1598
+"Among mobile developer respondents, 50% have considered a career or industry change in the past year, based on 1129 respondents.",career_change_by_role,1129
+"Among embedded applications or devices developer respondents, 44% have considered a career or industry change in the past year, based on 1064 respondents.",career_change_by_role,1064
+"Among Academic researcher respondents, 47% have considered a career or industry change in the past year, based on 931 respondents.",career_change_by_role,931
+"Among Engineering manager respondents, 42% have considered a career or industry change in the past year, based on 888 respondents.",career_change_by_role,888
+"Among DevOps engineer or professional respondents, 41% have considered a career or industry change in the past year, based on 909 respondents.",career_change_by_role,909
+"Among Data engineer respondents, 47% have considered a career or industry change in the past year, based on 644 respondents.",career_change_by_role,644
+"Among AI/ML engineer respondents, 46% have considered a career or industry change in the past year, based on 543 respondents.",career_change_by_role,543
+"Among Data scientist respondents, 49% have considered a career or industry change in the past year, based on 485 respondents.",career_change_by_role,485
+"Among Senior executive (C-suite, VP, etc.) respondents, 34% have considered a career or industry change in the past year, based on 446 respondents.",career_change_by_role,446
+"Among System administrator respondents, 47% have considered a career or industry change in the past year, based on 405 respondents.",career_change_by_role,405
+"Among game or graphics developer respondents, 40% have considered a career or industry change in the past year, based on 371 respondents.",career_change_by_role,371
+"Among Cloud infrastructure engineer respondents, 46% have considered a career or industry change in the past year, based on 349 respondents.",career_change_by_role,349
+"Among Founder, technology or otherwise respondents, 32% have considered a career or industry change in the past year, based on 353 respondents.",career_change_by_role,353
+"Among Cybersecurity or InfoSec professional respondents, 44% have considered a career or industry change in the past year, based on 310 respondents.",career_change_by_role,310
+"Among Data or business analyst respondents, 56% have considered a career or industry change in the past year, based on 283 respondents.",career_change_by_role,283
+"Among QA or test developer respondents, 49% have considered a career or industry change in the past year, based on 292 respondents.",career_change_by_role,292
+"Among Project manager respondents, 49% have considered a career or industry change in the past year, based on 251 respondents.",career_change_by_role,251
+"Among Applied scientist respondents, 48% have considered a career or industry change in the past year, based on 248 respondents.",career_change_by_role,248
+"Among Support engineer or analyst respondents, 55% have considered a career or industry change in the past year, based on 214 respondents.",career_change_by_role,214
+"Among AI apps or physical AI developer respondents, 46% have considered a career or industry change in the past year, based on 183 respondents.",career_change_by_role,183
+"Among Product manager respondents, 42% have considered a career or industry change in the past year, based on 168 respondents.",career_change_by_role,168
+"Among Database administrator or engineer respondents, 44% have considered a career or industry change in the past year, based on 147 respondents.",career_change_by_role,147
+"Among UX, Research Ops or UI design professional respondents, 54% have considered a career or industry change in the past year, based on 94 respondents.",career_change_by_role,94

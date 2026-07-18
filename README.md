@@ -46,8 +46,8 @@ pip install -r requirements.txt
 - [x] Step 1 — Data understanding
 - [x] Step 2 — Cleaning & EDA
 - [x] Step 3 — Fact generation
-- [ ] Step 4 — Build FAISS index
-- [ ] Step 5 — RAG chat logic
+- [x] Step 4 — Build FAISS index
+- [x] Step 5 — RAG chat logic
 - [ ] Step 6 — Streamlit interface
 - [ ] Step 7 — Polish & scalability
 
@@ -59,4 +59,4 @@ pip install -r requirements.txt
 | Vectorization & FAISS Implementation | Iliya Barary |
 | LLM Integration & Interface Design | Mani Gholampour |
 
-EE-404 Advanced Data Science — Dr. Amirhosein Salavati
+EE-404 Advanced Data Science — Dr. Amirhosain Salavati
