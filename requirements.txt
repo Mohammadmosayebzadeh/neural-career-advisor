@@ -8,7 +8,7 @@ sentence-transformers
 faiss-cpu
 
 # Phase 5: LLM client
-anthropic
+ollama
 
 # Phase 6: interface
 streamlit

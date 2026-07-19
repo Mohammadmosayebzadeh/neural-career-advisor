@@ -40,6 +40,14 @@ This project uses the Stack Overflow Developer Survey 2025 — `results.txt` (re
 pip install -r requirements.txt
 ```
 
+This project uses [Ollama](https://ollama.com/download) to run the LLM locally and for free — install it separately from the pip packages above, then pull the model once:
+
+```bash
+ollama pull llama3.2
+```
+
+Ollama needs to be running in the background whenever you use Notebook 5 or the app (the desktop app does this automatically).
+
 ## Roadmap
 
 - [x] Step 0 — Project setup & GitHub
