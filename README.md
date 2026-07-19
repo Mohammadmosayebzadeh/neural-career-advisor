@@ -23,11 +23,22 @@ neural-career-advisor/
 │   ├── 04_build_faiss_index.ipynb
 │   └── 05_rag_chat_logic.ipynb
 ├── app/
-│   └── app.py              # Streamlit chat interface (Step 6)
+│   ├── .streamlit/config.toml   # theme
+│   └── app.py                   # Streamlit chat interface
 ├── data/                    # raw survey CSVs go here — not committed, see below
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
+
+## Running the chatbot
+
+1. Run Notebooks 1 through 5 once, in order, so `data/facts.csv` and `data/facts.faiss` exist
+2. Make sure Ollama is running locally with the model pulled (see Setup below)
+3. From the project root:
+
+```bash
+streamlit run app/app.py
 ```
 
 ## Getting the data
@@ -47,6 +58,14 @@ ollama pull llama3.2
 ```
 
 Ollama needs to be running in the background whenever you use Notebook 5 or the app (the desktop app does this automatically).
+```bash
+ollama run llama3.2
+```
+for runing app.py you need to use streamlit:
+
+```bash
+streamlit run app.py
+```
 
 ## Roadmap
 
@@ -56,7 +75,7 @@ Ollama needs to be running in the background whenever you use Notebook 5 or the 
 - [x] Step 3 — Fact generation
 - [x] Step 4 — Build FAISS index
 - [x] Step 5 — RAG chat logic
-- [ ] Step 6 — Streamlit interface
+- [x] Step 6 — Streamlit interface
 - [ ] Step 7 — Polish & scalability
 
 ## Team
