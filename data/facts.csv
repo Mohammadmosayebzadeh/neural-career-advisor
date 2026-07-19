@@ -639,6 +639,46 @@ text,category,n
 "Among Product manager respondents, 36% currently use AI agents in their work, based on 138 respondents.",ai_agent_usage_by_role,138
 "Among Database administrator or engineer respondents, 22% currently use AI agents in their work, based on 126 respondents.",ai_agent_usage_by_role,126
 "Among UX, Research Ops or UI design professional respondents, 38% currently use AI agents in their work, based on 65 respondents.",ai_agent_usage_by_role,65
+"Developers who use JavaScript report a median annual salary of \$76,570, based on 14482 respondents.",salary_by_language,14482
+"66% of developers used JavaScript in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use HTML/CSS report a median annual salary of \$75,410, based on 13420 respondents.",salary_by_language,13420
+"62% of developers used HTML/CSS in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use SQL report a median annual salary of \$78,890, based on 13241 respondents.",salary_by_language,13241
+"59% of developers used SQL in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Python report a median annual salary of \$80,000, based on 12417 respondents.",salary_by_language,12417
+"58% of developers used Python in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Bash/Shell (all shells) report a median annual salary of \$84,691, based on 10876 respondents.",salary_by_language,10876
+"49% of developers used Bash/Shell (all shells) in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use TypeScript report a median annual salary of \$81,210, based on 10098 respondents.",salary_by_language,10098
+"44% of developers used TypeScript in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Java report a median annual salary of \$76,777, based on 6104 respondents.",salary_by_language,6104
+"30% of developers used Java in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use C# report a median annual salary of \$80,000, based on 6262 respondents.",salary_by_language,6262
+"28% of developers used C# in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use C++ report a median annual salary of \$75,410, based on 4467 respondents.",salary_by_language,4467
+"24% of developers used C++ in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use PowerShell report a median annual salary of \$81,210, based on 5207 respondents.",salary_by_language,5207
+"23% of developers used PowerShell in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use C report a median annual salary of \$75,410, based on 3952 respondents.",salary_by_language,3952
+"22% of developers used C in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use PHP report a median annual salary of \$62,000, based on 3956 respondents.",salary_by_language,3956
+"19% of developers used PHP in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Go report a median annual salary of \$92,518, based on 3684 respondents.",salary_by_language,3684
+"16% of developers used Go in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Rust report a median annual salary of \$85,534, based on 3036 respondents.",salary_by_language,3036
+"15% of developers used Rust in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Kotlin report a median annual salary of \$81,210, based on 2354 respondents.",salary_by_language,2354
+"11% of developers used Kotlin in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Lua report a median annual salary of \$76,649, based on 1806 respondents.",salary_by_language,1806
+"9% of developers used Lua in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Assembly report a median annual salary of \$71,505, based on 1126 respondents.",salary_by_language,1126
+"7% of developers used Assembly in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Ruby report a median annual salary of \$104,413, based on 1505 respondents.",salary_by_language,1505
+"6% of developers used Ruby in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Dart report a median annual salary of \$55,000, based on 1141 respondents.",salary_by_language,1141
+"6% of developers used Dart in the past year, based on 31671 respondents.",adoption_by_language,31671
+"Developers who use Swift report a median annual salary of \$92,887, based on 1158 respondents.",salary_by_language,1158
+"5% of developers used Swift in the past year, based on 31671 respondents.",adoption_by_language,31671
 "Among full-stack developer respondents, 44% have considered a career or industry change in the past year, based on 10086 respondents.",career_change_by_role,10086
 "Among back-end developer respondents, 44% have considered a career or industry change in the past year, based on 5249 respondents.",career_change_by_role,5249
 "Among Student respondents, 34% have considered a career or industry change in the past year, based on 2395 respondents.",career_change_by_role,2395
