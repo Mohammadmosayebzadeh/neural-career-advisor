@@ -17,10 +17,31 @@ from sentence_transformers import SentenceTransformer
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-DATA_DIR = Path(r"C:\\Users\\ASUS\\Desktop\\neural_career_advisor\\data")
-print("DATA_DIR =", DATA_DIR)
-print("facts.csv =", (DATA_DIR / "facts.csv").exists())
-print("facts.faiss =", (DATA_DIR / "facts.faiss").exists())
+def find_data_dir():
+    """Project layouts have varied across this build (../data, a data/ next to
+    the notebooks, files sitting loose at the project root) — rather than
+    guess wrong again, check the common candidates and use whichever one
+    actually has both files."""
+    here = Path(__file__).resolve().parent
+    candidates = [
+        here.parent / "data",  # app/../data — the documented layout
+        here.parent,           # files placed loose at the project root
+        here / "data",
+        Path.cwd() / "data",   # wherever `streamlit run` was launched from
+        Path.cwd(),
+    ]
+    for c in candidates:
+        if (c / "facts.csv").exists() and (c / "facts.faiss").exists():
+            return c
+    return None, candidates
+
+
+_result = find_data_dir()
+if isinstance(_result, tuple):
+    DATA_DIR, _CHECKED = None, _result[1]
+else:
+    DATA_DIR, _CHECKED = _result, None
+
 OLLAMA_MODEL = "llama3.2"
 MIN_SCORE = 0.35
 TOP_K = 7
@@ -121,9 +142,9 @@ st.markdown(
 # Load resources (cached — only runs once per session)
 # ---------------------------------------------------------------------------
 @st.cache_resource(show_spinner="Loading the knowledge base...")
-def load_resources():
-    facts_path = DATA_DIR / "facts.csv"
-    index_path = DATA_DIR / "facts.faiss"
+def load_resources(data_dir):
+    facts_path = data_dir / "facts.csv"
+    index_path = data_dir / "facts.faiss"
     if not facts_path.exists() or not index_path.exists():
         return None, None, None
     facts_df = pd.read_csv(facts_path)
@@ -132,13 +153,21 @@ def load_resources():
     return facts_df, index, embed_model
 
 
-facts_df, index, embed_model = load_resources()
+if DATA_DIR is None:
+    checked = "\n".join(f"- `{c}`" for c in _CHECKED)
+    st.error(
+        "Couldn't find **both** `facts.csv` and `facts.faiss` in any of the usual places. "
+        f"Checked:\n{checked}\n\n"
+        "Run Notebooks 3 and 4 first if you haven't — this app only displays what they build, "
+        "it doesn't build it. If they're already built, move both files into one of the folders "
+        "listed above, or edit `DATA_DIR` near the top of `app.py` to point at wherever they are."
+    )
+    st.stop()
+
+facts_df, index, embed_model = load_resources(DATA_DIR)
 
 if facts_df is None:
-    st.error(
-        "Couldn't find `facts.csv` or `facts.faiss` in the `data/` folder. "
-        "Run Notebooks 3 and 4 first — this app only displays what they build, it doesn't build it."
-    )
+    st.error(f"Found the folder `{DATA_DIR}` but it's missing `facts.csv` or `facts.faiss`.")
     st.stop()
 
 # ---------------------------------------------------------------------------
