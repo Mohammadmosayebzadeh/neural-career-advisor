@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data — large + ODbL licensed, see data/ note in README (derived files like facts.csv ARE committed)
+# Covers both the documented data/ folder and the project root, since both are valid layouts now
+results.txt
+schema.txt
+data/results.txt
+data/schema.txt
+*.zip
+*.faiss
+*.index
+
+# Secrets — never commit API keys
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -2,7 +2,7 @@
 
 A retrieval-augmented generation (RAG) chatbot that answers developer career questions — salary expectations, which skills to learn next, role fit — grounded in real data from the [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025), instead of a language model's guesswork.
 
-Built for **CS-404 Advanced Data Science**.
+Built for **EE-404 Advanced Data Science**.
 
 ## How it works
 
@@ -57,6 +57,7 @@ This project uses [Ollama](https://ollama.com/download) to run the LLM locally a
 ollama pull llama3.2
 ```
 
+
 Ollama needs to be running in the background whenever you use Notebook 5 or the app (the desktop app does this automatically).
 ```bash
 ollama run llama3.2
@@ -66,6 +67,7 @@ for runing app.py you need to use streamlit:
 ```bash
 streamlit run app.py
 ```
+
 
 ## Roadmap
 
