@@ -7,12 +7,23 @@ and Ollama running locally with the model below pulled.
 """
 
 from pathlib import Path
+import sys
 
 import faiss
 import ollama
 import pandas as pd
 import streamlit as st
 from sentence_transformers import SentenceTransformer
+
+# ---------------------------------------------------------------------------
+# Shared config (config.py at the project root — same file the notebooks use)
+# ---------------------------------------------------------------------------
+_here = Path(__file__).resolve().parent
+for _candidate in [_here.parent, _here, Path.cwd()]:
+    if (_candidate / "config.py").exists():
+        sys.path.insert(0, str(_candidate))
+        break
+import config as cfg
 
 # ---------------------------------------------------------------------------
 # Config
@@ -42,9 +53,9 @@ if isinstance(_result, tuple):
 else:
     DATA_DIR, _CHECKED = _result, None
 
-OLLAMA_MODEL = "llama3.2"
-MIN_SCORE = 0.35
-TOP_K = 7
+OLLAMA_MODEL = cfg.OLLAMA_MODEL
+MIN_SCORE = cfg.MIN_SCORE
+TOP_K = cfg.TOP_K
 
 SYSTEM_PROMPT = (
     "You are a career advisor for software developers, answering strictly from the survey "
@@ -129,10 +140,10 @@ st.markdown(
 )
 
 st.markdown(
-    """
+    f"""
     <div class="nca-hero">
         <h1>\U0001F9ED Neural Career Advisor</h1>
-        <p>Grounded in the 2025 Stack Overflow Developer Survey — real answers from real developers, never invented.</p>
+        <p>Grounded in the {cfg.SURVEY_YEAR} Stack Overflow Developer Survey — real answers from real developers, never invented.</p>
     </div>
     """,
     unsafe_allow_html=True,
@@ -191,7 +202,9 @@ def search(query, k=TOP_K, min_score=MIN_SCORE):
 
 def build_user_message(question, retrieved_facts):
     context = "\n".join(f"- {f['text']}" for f in retrieved_facts)
-    return f"Context (2025 Stack Overflow Developer Survey):\n{context}\n\nQuestion: {question}"
+    if len(context) > cfg.MAX_CONTEXT_CHARS:
+        context = context[: cfg.MAX_CONTEXT_CHARS] + "\n[context truncated]"
+    return f"Context ({cfg.SURVEY_YEAR} Stack Overflow Developer Survey):\n{context}\n\nQuestion: {question}"
 
 
 def ask(question):
@@ -200,7 +213,7 @@ def ask(question):
         return {
             "answer": (
                 "I don't have survey data that speaks to that directly — I can only answer "
-                "from the 2025 Stack Overflow Developer Survey facts I've indexed."
+                f"from the {cfg.SURVEY_YEAR} Stack Overflow Developer Survey facts I've indexed."
             ),
             "sources": [],
         }
