@@ -1,91 +1,42 @@
 # Neural Career Advisor (NCA)
 
-A retrieval-augmented generation (RAG) chatbot that answers developer career questions — salary expectations, which skills to learn next, role fit — grounded in real data from the [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025), instead of a language model's guesswork.
+A hybrid AI career copilot for software developers. NCA combines a **Retrieval-Augmented Generation (RAG) chatbot** with an **XGBoost Machine Learning Predictive Engine**. Instead of relying on a language model's guesswork, it grounds all answers—salary expectations, skill trends, and role fit—in over 360,000 real data points from 5 years of [Stack Overflow Developer Surveys (2021–2025)](https://survey.stackoverflow.co/).
 
-Built for **EE-404 Advanced Data Science**.
+Built for **EE-404 Advanced Data Science** under the supervision of **Dr. Amirhosain Salavati**.
 
 ## How it works
 
-1. **Preprocessing** — clean the raw survey responses, parse multi-select fields, handle missing values
-2. **Fact generation** — compute aggregated statistics (salary by role/country/experience, tech adoption, job satisfaction, AI sentiment) and turn each into a natural-language fact sentence
-3. **FAISS vector store** — embed the fact sentences and index them for semantic search
-4. **RAG + LLM** — retrieve the most relevant facts for a user's question, then generate a grounded natural-language answer using *only* that retrieved context
-5. **Chat interface** — a Streamlit app for asking questions in plain English
+1. **Preprocessing** — Merge and clean raw survey responses from 2021 to 2025, parse multi-select fields, and handle outliers (e.g., capping extreme salary inputs).
+2. **Fact Generation** — Compute aggregated, time-stamped statistics (salary by role/country/experience, tech adoption, job satisfaction) and generate over 12,000 natural-language fact sentences.
+3. **Machine Learning** — Train an XGBoost regression model on historical data to predict future developer salaries based on economic trends and specific user inputs.
+4. **FAISS Vector Store** — Embed the generated fact sentences using `sentence-transformers` and index them for rapid semantic search.
+5. **RAG + LLM Orchestration** — Retrieve the most relevant facts for a user's question, passing them to a local LLM to generate a strict, data-backed answer without hallucinating numbers.
+6. **System Evaluation** — Validate the pipeline using RAG Hit Rate, Faithfulness checks, and ML regression metrics (MAE, RMSE, $R^2$).
+7. **Interactive UI** — A modern Streamlit application featuring live typing effects, predictive forms, and data transparency links.
 
 ## Project structure
 
-```
-neural-career-advisor/
-├── notebooks/
-│   ├── 01_data_understanding.ipynb
-│   ├── 02_cleaning_eda.ipynb
-│   ├── 03_fact_generation.ipynb
-│   ├── 04_build_faiss_index.ipynb
-│   └── 05_rag_chat_logic.ipynb
-├── app/
-│   ├── .streamlit/config.toml   # theme
-│   └── app.py                   # Streamlit chat interface
-├── data/                    # raw survey CSVs go here — not committed, see below
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
-## Running the chatbot
-
-1. Run Notebooks 1 through 5 once, in order, so `data/facts.csv` and `data/facts.faiss` exist
-2. Make sure Ollama is running locally with the model pulled (see Setup below)
-3. From the project root:
-
-```bash
-streamlit run app/app.py
-```
-
-## Getting the data
-
-This project uses the Stack Overflow Developer Survey 2025 — `results.txt` (response data) and `schema.txt` (question reference) — licensed under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/). Both are plain CSVs despite the `.txt` extension (that's how they come from the GitHub archive). Download from the [official survey site](https://survey.stackoverflow.co/2025), the [official GitHub archive](https://github.com/StackExchange/Survey), or a Kaggle mirror, and place both files in `data/`. The raw data isn't committed to this repo (file size + license terms).
-
-## Setup
-
-```bash
-pip install -r requirements.txt
-```
-
-This project uses [Ollama](https://ollama.com/download) to run the LLM locally and for free — install it separately from the pip packages above, then pull the model once:
-
-```bash
-ollama pull llama3.2
-```
-
-
-Ollama needs to be running in the background whenever you use Notebook 5 or the app (the desktop app does this automatically).
-```bash
-ollama run llama3.2
-```
-for runing app.py you need to use streamlit:
-
-```bash
-streamlit run app.py
-```
-
-
-## Roadmap
-
-- [x] Step 0 — Project setup & GitHub
-- [x] Step 1 — Data understanding
-- [x] Step 2 — Cleaning & EDA
-- [x] Step 3 — Fact generation
-- [x] Step 4 — Build FAISS index
-- [x] Step 5 — RAG chat logic
-- [x] Step 6 — Streamlit interface
-- [ ] Step 7 — Polish & scalability
-
-## Team
-
-| Role | Name |
-|---|---|
-| Data Engineering & RAG Architecture | Mohammad Mosayeb zadeh |
-| Vectorization & FAISS Implementation | Iliya Barary |
-| LLM Integration & Interface Design | Mani Gholampour |
-
-EE-404 Advanced Data Science — Dr. Amirhosain Salavati
+```text
+neural-career-advisor-main/
+├── 01_data_understanding.ipynb    # Initial data exploration
+├── 02_cleaning_eda.ipynb          # Multi-year merging, cleaning, and EDA
+├── 03_fact_generation.ipynb       # Temporal Knowledge Base generation
+├── 04_build_faiss_index.ipynb     # Embedding and FAISS indexing
+├── 05_rag_chat_logic.ipynb        # LLM orchestration and RAG testing
+├── 06_system_evaluation.ipynb     # RAG & ML metrics (MAE, R2, Hit Rate)
+├── app.py                         # Streamlit application (Chat, Predictor, Data)
+├── salary_utils.py                # Helper functions for the ML pipeline
+├── config.py                      # Global configuration (Paths, Model names, Thresholds)
+├── config.toml                    # Streamlit UI theme config
+├── requirements.txt               # Python dependencies
+├── README.md                      # Project documentation
+├── .gitignore                     
+├── .gitattributes                 
+└── data/                          # Ignored in version control
+    ├── 2021.txt, 2022.csv, ...    # Raw multi-year datasets
+    ├── results.txt, schema.txt    # 2025 Dataset
+    ├── merged_results.csv         # Unified historical dataset
+    ├── facts.csv                  # 12,000+ generated text facts
+    ├── facts.faiss                # Vectorized index for search
+    ├── salary_predictor.pkl       # Trained XGBoost model
+    └── evaluation_results.csv     # Exported metrics
