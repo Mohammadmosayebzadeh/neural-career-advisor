@@ -1,0 +1,46 @@
+SALARY PREDICTION MODEL - EVALUATION REPORT
+==============================================================
+
+Dataset      : Stack Overflow Developer Survey, merged 2021-2025
+Target       : ConvertedCompYearly (annual salary, USD)
+Features     : Country, YearsCode, DevType, LanguageHaveWorkedWith, Year
+
+Split        : chronological (no random split)
+  Training   : years 2021-2024   (150,664 rows)
+  Test       : year  2025          (22,949 rows)
+
+Salary filter: 1,000 - 400,000 USD per year
+
+--------------------------------------------------------------
+SELECTED MODEL : XGBoost
+  (selected as the model with the lowest MAE on the 2025 test set)
+--------------------------------------------------------------
+
+MAE  : 30,521.21 USD
+RMSE : 45,920.98 USD
+R2   : 0.5391
+
+--------------------------------------------------------------
+ALL MODELS COMPARED (2025 test set)
+--------------------------------------------------------------
+                              MAE      RMSE    R2
+Model                                            
+Baseline (train median)  51308.64  72011.35 -0.13
+RandomForest             32727.42  47854.50  0.50
+XGBoost                  30521.21  45920.98  0.54
+
+--------------------------------------------------------------
+NOTES
+--------------------------------------------------------------
+* salary_predictor.pkl contains the complete sklearn Pipeline
+  (preprocessing + model). Raw, uncleaned input can be passed
+  directly to pipeline.predict(dataframe).
+* salary_utils.py must be importable when loading the .pkl file,
+  because the pipeline references its custom transformers.
+* Fitted annual salary growth rate (2021-2024): 7.65% per year.
+  Cross-check: the model's own under-prediction on the held-out 2025
+  data implies only 4.54% of one-year drift, so the fitted
+  trend is optimistic by a factor of about 1.7x.
+  Projections beyond 2025 are trend-based extrapolations of the
+  historical survey data, NOT economic or inflation forecasts, and should
+  be read as an upper bound.
